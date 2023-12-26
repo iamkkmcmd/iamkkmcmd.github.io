@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html",
+    "href": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html",
+    "title": "Prediction for rating shorts stories of Sherlock Holmes",
+    "section": "",
+    "text": "Sherlock Holmes is a beloved literary character known for his exceptional detective skills and logical reasoning. The stories featuring Sherlock Holmes have captivated audiences for over a century, making him one of the most popular fictional characters in literature. In this project, we will be conducting a statistical analysis of the Sherlock Holmes short stories to gain a deeper understanding of the sentiments, frequent words, and facts present in the stories.\nOur primary objective is to analyze the flow of sentiments throughout the stories. We will be examining the use of language and the emotions conveyed through the words used in the stories. Additionally, we will be identifying the most frequent words and uncovering the sentiment behind them. By gaining a better understanding of the language and emotions present in the stories, we aim to gain a deeper appreciation of the writing style and storytelling techniques used by Sir Arthur Conan Doyle.\nAnother objective of this project is to uncover the facts present in the stories. We will be analyzing the data to identify the key facts that drive the plot and shape the characters in the stories. This will provide insight into the structure and themes of the stories, as well as the historical and cultural context in which they were written.\nFinally, we will be building a model for predicting the rating of the stories. This will provide a deeper understanding of the stories as a whole and how they relate to one another. Overall, this project aims to provide a comprehensive analysis of the Sherlock Holmes short stories and enhance our understanding of the beloved literary character and his stories.\nThe project aimed to predict ratings for short stories of Sherlock Holmes. The methodology involved using the UDPipe-14 model for feature extraction. The dataset used consisted of 56 short stories written by Arthur Conan Doyle, which were obtained from Kaggle. The findings of the project indicated that the ratings of the stories were primarily influenced by their age and the presence of enthusiastic detective-related words."
+  },
+  {
+    "objectID": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html#about",
+    "href": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html#about",
+    "title": "Prediction for rating shorts stories of Sherlock Holmes",
+    "section": "",
+    "text": "Sherlock Holmes is a beloved literary character known for his exceptional detective skills and logical reasoning. The stories featuring Sherlock Holmes have captivated audiences for over a century, making him one of the most popular fictional characters in literature. In this project, we will be conducting a statistical analysis of the Sherlock Holmes short stories to gain a deeper understanding of the sentiments, frequent words, and facts present in the stories.\nOur primary objective is to analyze the flow of sentiments throughout the stories. We will be examining the use of language and the emotions conveyed through the words used in the stories. Additionally, we will be identifying the most frequent words and uncovering the sentiment behind them. By gaining a better understanding of the language and emotions present in the stories, we aim to gain a deeper appreciation of the writing style and storytelling techniques used by Sir Arthur Conan Doyle.\nAnother objective of this project is to uncover the facts present in the stories. We will be analyzing the data to identify the key facts that drive the plot and shape the characters in the stories. This will provide insight into the structure and themes of the stories, as well as the historical and cultural context in which they were written.\nFinally, we will be building a model for predicting the rating of the stories. This will provide a deeper understanding of the stories as a whole and how they relate to one another. Overall, this project aims to provide a comprehensive analysis of the Sherlock Holmes short stories and enhance our understanding of the beloved literary character and his stories.\nThe project aimed to predict ratings for short stories of Sherlock Holmes. The methodology involved using the UDPipe-14 model for feature extraction. The dataset used consisted of 56 short stories written by Arthur Conan Doyle, which were obtained from Kaggle. The findings of the project indicated that the ratings of the stories were primarily influenced by their age and the presence of enthusiastic detective-related words."
+  },
+  {
+    "objectID": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html#source",
+    "href": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html#source",
+    "title": "Prediction for rating shorts stories of Sherlock Holmes",
+    "section": "2 Source",
+    "text": "2 Source\n\n          \n\nHere, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links)."
+  },
+  {
+    "objectID": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html#acknowledgment",
+    "href": "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html#acknowledgment",
+    "title": "Prediction for rating shorts stories of Sherlock Holmes",
+    "section": "3 Acknowledgment",
+    "text": "3 Acknowledgment\nIt is great pleasure for me to undertake this project. I am grateful to my project guide Prof. Tirthankar Ghosh, Department of Statistics, Visva Bharati University, Bolpur, Shantiniketan."
+  },
+  {
+    "objectID": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html",
+    "href": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html",
+    "title": "Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?",
+    "section": "",
+    "text": "This study focuses on analyzing the vulnerability faced by Indian banks during the COVID-19 pandemic. It specifically utilizes the marginal expected shortfall of stock returns as a measure to assess the vulnerability of banks. The research investigates the impact of the COVID-19 outbreak on the crash risk experienced by firms that took loans from vulnerable banks, comparing it to firms that borrowed from non-vulnerable banks."
+  },
+  {
+    "objectID": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#about",
+    "href": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#about",
+    "title": "Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?",
+    "section": "",
+    "text": "This study focuses on analyzing the vulnerability faced by Indian banks during the COVID-19 pandemic. It specifically utilizes the marginal expected shortfall of stock returns as a measure to assess the vulnerability of banks. The research investigates the impact of the COVID-19 outbreak on the crash risk experienced by firms that took loans from vulnerable banks, comparing it to firms that borrowed from non-vulnerable banks."
+  },
+  {
+    "objectID": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#source",
+    "href": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#source",
+    "title": "Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?",
+    "section": "2 Source",
+    "text": "2 Source\n\n          \n\nHere, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links)."
+  },
+  {
+    "objectID": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#why-this-topic",
+    "href": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#why-this-topic",
+    "title": "Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?",
+    "section": "3 Why this topic?",
+    "text": "3 Why this topic?\nIndia’s banking sector comprises a mix of state-owned banks and private sector banks, providing an ideal setting to explore the effects of the COVID-19 crisis on these institutions. During times of crisis, it is common for people to perceive state-owned banks as more secure and withdraw their money from private sector banks, depositing it into public sector banks instead. Additionally, crises often prompt individuals to conduct more thorough market investigations, leading managers to be more transparent with bad news, which can result in a drop in stock prices. By utilizing crash risk and considering several fixed effects, this study aims to verify these common perceptions and observations."
+  },
+  {
+    "objectID": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#objective",
+    "href": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#objective",
+    "title": "Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?",
+    "section": "4 Objective",
+    "text": "4 Objective\nThe main objective of this study is to examine whether firms that took loans from vulnerable banks experienced a higher crash risk compared to those that borrowed from non-vulnerable banks during the COVID-19 crisis."
+  },
+  {
+    "objectID": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#exploratory-data-analysis-eda",
+    "href": "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html#exploratory-data-analysis-eda",
+    "title": "Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?",
+    "section": "5 Exploratory Data Analysis (EDA)",
+    "text": "5 Exploratory Data Analysis (EDA)\n\n\n\n\n\n\nInsights\n\n\n\n\nPrivate sector banks exhibited a higher vulnerability compared to public sector banks during the crisis period.\nPublic banks extended loans to a larger number of banks.\nState Bank of India (SBI) emerged as the top lending bank in the public sector, while HDFC held the top position in the private sector.\nThe top three industries in terms of loan recipients were fund-based financial services, wholesale trading, and drugs & pharmaceuticals.\nA significant portion of financial service firms obtained loans from private sector banks, with HDFC and AXIS being the prominent lenders in this sector.\nFirms that borrowed from vulnerable banks, particularly in the private sector, exhibited higher average return on assets.\nThe firms that took loans from private vulnerable banks had a relatively higher average leverage compared to those that borrowed from public vulnerable banks. These initial findings from the EDA stage provide valuable insights into the vulnerability of Indian banks during the COVID-19 crisis and set the foundation for further analysis in the study."
+  },
+  {
+    "objectID": "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html",
+    "href": "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html",
+    "title": "Analysis of Diet, Exercise, and Fitness Data (A Visual Exploration)",
+    "section": "",
+    "text": "In our day to day life, especially amidst the Covid situation, our diet and our exercise effect our fitness to a very large level which is very important to live a safe & healthy life. Now our main objective behind this study is to analysis how much our diet and exercise effects our fitness. The study population is young students and target population is our friends. Sample is collected from them."
+  },
+  {
+    "objectID": "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html#about",
+    "href": "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html#about",
+    "title": "Analysis of Diet, Exercise, and Fitness Data (A Visual Exploration)",
+    "section": "",
+    "text": "In our day to day life, especially amidst the Covid situation, our diet and our exercise effect our fitness to a very large level which is very important to live a safe & healthy life. Now our main objective behind this study is to analysis how much our diet and exercise effects our fitness. The study population is young students and target population is our friends. Sample is collected from them."
+  },
+  {
+    "objectID": "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html#source",
+    "href": "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html#source",
+    "title": "Analysis of Diet, Exercise, and Fitness Data (A Visual Exploration)",
+    "section": "2 Source",
+    "text": "2 Source\n\n          \n\nHere, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links)."
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "",
+    "section": "",
+    "text": "Loading…"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nUnveiling the Power of Monte Carlo Simulation\n\n\nKrishnakanta Maity\n\n\n3 min\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nUnderstanding Different types of Correlation\n\n\nKrishnakanta Maity\n\n\n5 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html#statistics",
+    "href": "blog.html#statistics",
+    "title": "",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nUnveiling the Power of Monte Carlo Simulation\n\n\nKrishnakanta Maity\n\n\n3 min\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nUnderstanding Different types of Correlation\n\n\nKrishnakanta Maity\n\n\n5 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html#data-science",
+    "href": "blog.html#data-science",
+    "title": "",
+    "section": "2 Data Science",
+    "text": "2 Data Science"
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Correlation is a statistical measure that quantifies the relationship between two variables. It helps us understand how changes in one variable correspond to changes in another variable. While correlation is a commonly used concept, there are various types of correlation that serve different purposes and provide distinct insights. In this blog post, we will explore and compare five types of correlation: correlation, multiple correlation, partial correlation, autocorrelation, and serial correlation. We will discuss their key points and use cases, along with examples in R.\n\n# Load necessary libraries\nlibrary(datasets)\n\n# Load the built-in dataset \"mtcars\"\ndata(mtcars)\n\n\n\nMeasures the degree of association between two continuous variables.\nRanges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.\nKey Points:\n\nCorrelation assesses the strength and direction of the linear relationship between variables.\nIt helps in identifying patterns and predicting one variable based on another.\n\n\nUse Cases:\n\nUnderstanding the relationship between variables in data analysis.\nFeature selection in machine learning and predictive modeling.\n\n\n\n\n# Correlation\ncorrelation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Correlation: \", correlation))\n\n[1] \"Correlation:  -0.847551379262479\"\n\n\n\n\nExamines the relationship between one dependent variable and multiple independent variables.\nMeasures the overall relationship between the dependent variable and a set of independent variables.\nKey Points:\n\nMultiple correlation is an extension of simple correlation to multiple variables.\nIt helps in understanding how a set of variables collectively influence the dependent variable.\n\n\nUse Cases:\n\nMultiple regression analysis to predict an outcome using multiple predictors.\nAnalyzing the impact of multiple factors on a dependent variable.\n\n\n\n\n# Multiple Correlation\nmultiple_correlation &lt;- cor(mtcars[, c(\"mpg\", \"disp\", \"hp\")])\nmultiple_correlation\n\n            mpg       disp         hp\nmpg   1.0000000 -0.8475514 -0.7761684\ndisp -0.8475514  1.0000000  0.7909486\nhp   -0.7761684  0.7909486  1.0000000\n\n\n\n# Create example data\n# x1 &lt;- c(1, 2, 3, 4, 5)\n# x2 &lt;- c(2, 4, 6, 8, 10)\n# y &lt;- c(3, 5, 7, 9, 11)\nx1 &lt;- mtcars$mpg\nx2 &lt;- mtcars$disp\ny &lt;- mtcars$hp\n\n# Create a data frame with the variables\ndata &lt;- data.frame(x1, x2, y)\n\n# Calculate the multiple correlation coefficient\nmultiple_corr &lt;- function(data) {\n  # Extract the predictor variables\n  X &lt;- data[, -ncol(data)]\n  # Calculate the inverse of the correlation matrix\n  det_R &lt;- det(cor(data))\n  # Calculate the inverse of the correlation matrix\n  Ryy_inv &lt;- solve(cor(X))\n  # Calculate the multiple correlation coefficient\n  multiple_corr &lt;- sqrt(1 - (det_R * Ryy_inv))\n  \n  return(multiple_corr)\n}\n\n# Call the multiple_corr function\nmultiple_corr_coef &lt;- multiple_corr(data)\n\n# Print the multiple correlation coefficient\nprint(multiple_corr_coef)\n\n          x1        x2\nx1 0.8156843 0.8463801\nx2 0.8463801 0.8156843\n\n\n\n\nMeasures the relationship between two variables while controlling for the effect of other variables.\nProvides a way to assess the direct association between variables, excluding the influence of other variables.\nKey Points:\n\nPartial correlation helps in understanding the unique relationship between two variables.\nIt reveals the direct association after accounting for the effects of other variables.\n\n\nUse Cases:\n\nControlling for confounding variables in observational studies.\nExploring the relationship between two variables when other variables might confound the results.\n\n\n\n\n# Partial Correlation\npartial_correlation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Partial Correlation: \", partial_correlation))\n\n[1] \"Partial Correlation:  -0.847551379262479\"\n\n\n\n\nExamines the correlation between a variable and its past values.\nMeasures the linear dependence of a variable on its lagged values.\nKey Points:\n\nAutocorrelation helps in identifying patterns or trends in time series data.\nIt is useful for analyzing and forecasting time-dependent phenomena.\n\n\nUse Cases:\n\nAnalysis of stock market data to identify trends or predict future prices.\nAnalyzing seasonal patterns in weather data.\n\n\n\n\n# Autocorrelation\nautocorrelation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)])\nprint(paste(\"Autocorrelation: \", autocorrelation))\n\n[1] \"Autocorrelation:  0.497048522871431\"\n\n\n\n\nMeasures the correlation between observations in a time series.\nAssesses the linear relationship between current and previous observations.\nKey Points:\n\nSerial correlation is similar to autocorrelation but focuses on the relationship between adjacent observations.\nIt helps in detecting patterns or dependencies in sequential data.\n\n\nUse Cases:\n\nEvaluating the effectiveness of forecasting models for time series data.\nAnalyzing patterns in economic or financial data.\n\n\n\n\n# Serial Correlation\nserial_correlation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)], method = \"pearson\")\nprint(paste(\"Serial Correlation: \", serial_correlation))\n\n[1] \"Serial Correlation:  0.497048522871431\"\n\n\n\nInverse correlation is a negative relationship between two variables where one variable increases while the other decreases.\n\nKey points:\n\nIt indicates an opposite relationship compared to positive correlation.\nThe correlation coefficient is close to -1.\n\n\nUse case:\n\nExamining the relationship between hours spent studying and exam scores. As study time increases, the exam scores tend to decrease."
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html#correlation",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html#correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the degree of association between two continuous variables.\nRanges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.\nKey Points:\n\nCorrelation assesses the strength and direction of the linear relationship between variables.\nIt helps in identifying patterns and predicting one variable based on another.\n\n\nUse Cases:\n\nUnderstanding the relationship between variables in data analysis.\nFeature selection in machine learning and predictive modeling.\n\n\n\n\n# Correlation\ncorrelation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Correlation: \", correlation))\n\n[1] \"Correlation:  -0.847551379262479\""
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html#multiple-correlation",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html#multiple-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Examines the relationship between one dependent variable and multiple independent variables.\nMeasures the overall relationship between the dependent variable and a set of independent variables.\nKey Points:\n\nMultiple correlation is an extension of simple correlation to multiple variables.\nIt helps in understanding how a set of variables collectively influence the dependent variable.\n\n\nUse Cases:\n\nMultiple regression analysis to predict an outcome using multiple predictors.\nAnalyzing the impact of multiple factors on a dependent variable.\n\n\n\n\n# Multiple Correlation\nmultiple_correlation &lt;- cor(mtcars[, c(\"mpg\", \"disp\", \"hp\")])\nmultiple_correlation\n\n            mpg       disp         hp\nmpg   1.0000000 -0.8475514 -0.7761684\ndisp -0.8475514  1.0000000  0.7909486\nhp   -0.7761684  0.7909486  1.0000000\n\n\n\n# Create example data\n# x1 &lt;- c(1, 2, 3, 4, 5)\n# x2 &lt;- c(2, 4, 6, 8, 10)\n# y &lt;- c(3, 5, 7, 9, 11)\nx1 &lt;- mtcars$mpg\nx2 &lt;- mtcars$disp\ny &lt;- mtcars$hp\n\n# Create a data frame with the variables\ndata &lt;- data.frame(x1, x2, y)\n\n# Calculate the multiple correlation coefficient\nmultiple_corr &lt;- function(data) {\n  # Extract the predictor variables\n  X &lt;- data[, -ncol(data)]\n  # Calculate the inverse of the correlation matrix\n  det_R &lt;- det(cor(data))\n  # Calculate the inverse of the correlation matrix\n  Ryy_inv &lt;- solve(cor(X))\n  # Calculate the multiple correlation coefficient\n  multiple_corr &lt;- sqrt(1 - (det_R * Ryy_inv))\n  \n  return(multiple_corr)\n}\n\n# Call the multiple_corr function\nmultiple_corr_coef &lt;- multiple_corr(data)\n\n# Print the multiple correlation coefficient\nprint(multiple_corr_coef)\n\n          x1        x2\nx1 0.8156843 0.8463801\nx2 0.8463801 0.8156843"
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html#partial-correlation",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html#partial-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the relationship between two variables while controlling for the effect of other variables.\nProvides a way to assess the direct association between variables, excluding the influence of other variables.\nKey Points:\n\nPartial correlation helps in understanding the unique relationship between two variables.\nIt reveals the direct association after accounting for the effects of other variables.\n\n\nUse Cases:\n\nControlling for confounding variables in observational studies.\nExploring the relationship between two variables when other variables might confound the results.\n\n\n\n\n# Partial Correlation\npartial_correlation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Partial Correlation: \", partial_correlation))\n\n[1] \"Partial Correlation:  -0.847551379262479\""
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html#autocorrelation",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html#autocorrelation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Examines the correlation between a variable and its past values.\nMeasures the linear dependence of a variable on its lagged values.\nKey Points:\n\nAutocorrelation helps in identifying patterns or trends in time series data.\nIt is useful for analyzing and forecasting time-dependent phenomena.\n\n\nUse Cases:\n\nAnalysis of stock market data to identify trends or predict future prices.\nAnalyzing seasonal patterns in weather data.\n\n\n\n\n# Autocorrelation\nautocorrelation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)])\nprint(paste(\"Autocorrelation: \", autocorrelation))\n\n[1] \"Autocorrelation:  0.497048522871431\""
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html#serial-correlation",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html#serial-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the correlation between observations in a time series.\nAssesses the linear relationship between current and previous observations.\nKey Points:\n\nSerial correlation is similar to autocorrelation but focuses on the relationship between adjacent observations.\nIt helps in detecting patterns or dependencies in sequential data.\n\n\nUse Cases:\n\nEvaluating the effectiveness of forecasting models for time series data.\nAnalyzing patterns in economic or financial data.\n\n\n\n\n# Serial Correlation\nserial_correlation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)], method = \"pearson\")\nprint(paste(\"Serial Correlation: \", serial_correlation))\n\n[1] \"Serial Correlation:  0.497048522871431\""
+  },
+  {
+    "objectID": "blog/statistics/understanding-different-types-of-correlation/index.html#inverse-correlation",
+    "href": "blog/statistics/understanding-different-types-of-correlation/index.html#inverse-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Inverse correlation is a negative relationship between two variables where one variable increases while the other decreases.\n\nKey points:\n\nIt indicates an opposite relationship compared to positive correlation.\nThe correlation coefficient is close to -1.\n\n\nUse case:\n\nExamining the relationship between hours spent studying and exam scores. As study time increases, the exam scores tend to decrease."
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html",
+    "href": "blog/data-science/blog-12/index.html",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Correlation is a statistical measure that quantifies the relationship between two variables. It helps us understand how changes in one variable correspond to changes in another variable. While correlation is a commonly used concept, there are various types of correlation that serve different purposes and provide distinct insights. In this blog post, we will explore and compare five types of correlation: correlation, multiple correlation, partial correlation, autocorrelation, and serial correlation. We will discuss their key points and use cases, along with examples in R.\n\n# Load necessary libraries\nlibrary(datasets)\n\n# Load the built-in dataset \"mtcars\"\ndata(mtcars)\n\n\n\nMeasures the degree of association between two continuous variables.\nRanges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.\nKey Points:\n\nCorrelation assesses the strength and direction of the linear relationship between variables.\nIt helps in identifying patterns and predicting one variable based on another.\n\n\nUse Cases:\n\nUnderstanding the relationship between variables in data analysis.\nFeature selection in machine learning and predictive modeling.\n\n\n\n\n# Correlation\ncorrelation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Correlation: \", correlation))\n\n[1] \"Correlation:  -0.847551379262479\"\n\n\n\n\nExamines the relationship between one dependent variable and multiple independent variables.\nMeasures the overall relationship between the dependent variable and a set of independent variables.\nKey Points:\n\nMultiple correlation is an extension of simple correlation to multiple variables.\nIt helps in understanding how a set of variables collectively influence the dependent variable.\n\n\nUse Cases:\n\nMultiple regression analysis to predict an outcome using multiple predictors.\nAnalyzing the impact of multiple factors on a dependent variable.\n\n\n\n\n# Multiple Correlation\nmultiple_correlation &lt;- cor(mtcars[, c(\"mpg\", \"disp\", \"hp\")])\nmultiple_correlation\n\n            mpg       disp         hp\nmpg   1.0000000 -0.8475514 -0.7761684\ndisp -0.8475514  1.0000000  0.7909486\nhp   -0.7761684  0.7909486  1.0000000\n\n\n\n# Create example data\n# x1 &lt;- c(1, 2, 3, 4, 5)\n# x2 &lt;- c(2, 4, 6, 8, 10)\n# y &lt;- c(3, 5, 7, 9, 11)\nx1 &lt;- mtcars$mpg\nx2 &lt;- mtcars$disp\ny &lt;- mtcars$hp\n\n# Create a data frame with the variables\ndata &lt;- data.frame(x1, x2, y)\n\n# Calculate the multiple correlation coefficient\nmultiple_corr &lt;- function(data) {\n  # Extract the predictor variables\n  X &lt;- data[, -ncol(data)]\n  # Calculate the inverse of the correlation matrix\n  det_R &lt;- det(cor(data))\n  # Calculate the inverse of the correlation matrix\n  Ryy_inv &lt;- solve(cor(X))\n  # Calculate the multiple correlation coefficient\n  multiple_corr &lt;- sqrt(1 - (det_R * Ryy_inv))\n  \n  return(multiple_corr)\n}\n\n# Call the multiple_corr function\nmultiple_corr_coef &lt;- multiple_corr(data)\n\n# Print the multiple correlation coefficient\nprint(multiple_corr_coef)\n\n          x1        x2\nx1 0.8156843 0.8463801\nx2 0.8463801 0.8156843\n\n\n\n\nMeasures the relationship between two variables while controlling for the effect of other variables.\nProvides a way to assess the direct association between variables, excluding the influence of other variables.\nKey Points:\n\nPartial correlation helps in understanding the unique relationship between two variables.\nIt reveals the direct association after accounting for the effects of other variables.\n\n\nUse Cases:\n\nControlling for confounding variables in observational studies.\nExploring the relationship between two variables when other variables might confound the results.\n\n\n\n\n# Partial Correlation\npartial_correlation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Partial Correlation: \", partial_correlation))\n\n[1] \"Partial Correlation:  -0.847551379262479\"\n\n\n\n\nExamines the correlation between a variable and its past values.\nMeasures the linear dependence of a variable on its lagged values.\nKey Points:\n\nAutocorrelation helps in identifying patterns or trends in time series data.\nIt is useful for analyzing and forecasting time-dependent phenomena.\n\n\nUse Cases:\n\nAnalysis of stock market data to identify trends or predict future prices.\nAnalyzing seasonal patterns in weather data.\n\n\n\n\n# Autocorrelation\nautocorrelation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)])\nprint(paste(\"Autocorrelation: \", autocorrelation))\n\n[1] \"Autocorrelation:  0.497048522871431\"\n\n\n\n\nMeasures the correlation between observations in a time series.\nAssesses the linear relationship between current and previous observations.\nKey Points:\n\nSerial correlation is similar to autocorrelation but focuses on the relationship between adjacent observations.\nIt helps in detecting patterns or dependencies in sequential data.\n\n\nUse Cases:\n\nEvaluating the effectiveness of forecasting models for time series data.\nAnalyzing patterns in economic or financial data.\n\n\n\n\n# Serial Correlation\nserial_correlation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)], method = \"pearson\")\nprint(paste(\"Serial Correlation: \", serial_correlation))\n\n[1] \"Serial Correlation:  0.497048522871431\"\n\n\n\nInverse correlation is a negative relationship between two variables where one variable increases while the other decreases.\n\nKey points:\n\nIt indicates an opposite relationship compared to positive correlation.\nThe correlation coefficient is close to -1.\n\n\nUse case:\n\nExamining the relationship between hours spent studying and exam scores. As study time increases, the exam scores tend to decrease."
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html#correlation",
+    "href": "blog/data-science/blog-12/index.html#correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the degree of association between two continuous variables.\nRanges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.\nKey Points:\n\nCorrelation assesses the strength and direction of the linear relationship between variables.\nIt helps in identifying patterns and predicting one variable based on another.\n\n\nUse Cases:\n\nUnderstanding the relationship between variables in data analysis.\nFeature selection in machine learning and predictive modeling.\n\n\n\n\n# Correlation\ncorrelation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Correlation: \", correlation))\n\n[1] \"Correlation:  -0.847551379262479\""
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html#multiple-correlation",
+    "href": "blog/data-science/blog-12/index.html#multiple-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Examines the relationship between one dependent variable and multiple independent variables.\nMeasures the overall relationship between the dependent variable and a set of independent variables.\nKey Points:\n\nMultiple correlation is an extension of simple correlation to multiple variables.\nIt helps in understanding how a set of variables collectively influence the dependent variable.\n\n\nUse Cases:\n\nMultiple regression analysis to predict an outcome using multiple predictors.\nAnalyzing the impact of multiple factors on a dependent variable.\n\n\n\n\n# Multiple Correlation\nmultiple_correlation &lt;- cor(mtcars[, c(\"mpg\", \"disp\", \"hp\")])\nmultiple_correlation\n\n            mpg       disp         hp\nmpg   1.0000000 -0.8475514 -0.7761684\ndisp -0.8475514  1.0000000  0.7909486\nhp   -0.7761684  0.7909486  1.0000000\n\n\n\n# Create example data\n# x1 &lt;- c(1, 2, 3, 4, 5)\n# x2 &lt;- c(2, 4, 6, 8, 10)\n# y &lt;- c(3, 5, 7, 9, 11)\nx1 &lt;- mtcars$mpg\nx2 &lt;- mtcars$disp\ny &lt;- mtcars$hp\n\n# Create a data frame with the variables\ndata &lt;- data.frame(x1, x2, y)\n\n# Calculate the multiple correlation coefficient\nmultiple_corr &lt;- function(data) {\n  # Extract the predictor variables\n  X &lt;- data[, -ncol(data)]\n  # Calculate the inverse of the correlation matrix\n  det_R &lt;- det(cor(data))\n  # Calculate the inverse of the correlation matrix\n  Ryy_inv &lt;- solve(cor(X))\n  # Calculate the multiple correlation coefficient\n  multiple_corr &lt;- sqrt(1 - (det_R * Ryy_inv))\n  \n  return(multiple_corr)\n}\n\n# Call the multiple_corr function\nmultiple_corr_coef &lt;- multiple_corr(data)\n\n# Print the multiple correlation coefficient\nprint(multiple_corr_coef)\n\n          x1        x2\nx1 0.8156843 0.8463801\nx2 0.8463801 0.8156843"
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html#partial-correlation",
+    "href": "blog/data-science/blog-12/index.html#partial-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the relationship between two variables while controlling for the effect of other variables.\nProvides a way to assess the direct association between variables, excluding the influence of other variables.\nKey Points:\n\nPartial correlation helps in understanding the unique relationship between two variables.\nIt reveals the direct association after accounting for the effects of other variables.\n\n\nUse Cases:\n\nControlling for confounding variables in observational studies.\nExploring the relationship between two variables when other variables might confound the results.\n\n\n\n\n# Partial Correlation\npartial_correlation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Partial Correlation: \", partial_correlation))\n\n[1] \"Partial Correlation:  -0.847551379262479\""
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html#autocorrelation",
+    "href": "blog/data-science/blog-12/index.html#autocorrelation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Examines the correlation between a variable and its past values.\nMeasures the linear dependence of a variable on its lagged values.\nKey Points:\n\nAutocorrelation helps in identifying patterns or trends in time series data.\nIt is useful for analyzing and forecasting time-dependent phenomena.\n\n\nUse Cases:\n\nAnalysis of stock market data to identify trends or predict future prices.\nAnalyzing seasonal patterns in weather data.\n\n\n\n\n# Autocorrelation\nautocorrelation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)])\nprint(paste(\"Autocorrelation: \", autocorrelation))\n\n[1] \"Autocorrelation:  0.497048522871431\""
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html#serial-correlation",
+    "href": "blog/data-science/blog-12/index.html#serial-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the correlation between observations in a time series.\nAssesses the linear relationship between current and previous observations.\nKey Points:\n\nSerial correlation is similar to autocorrelation but focuses on the relationship between adjacent observations.\nIt helps in detecting patterns or dependencies in sequential data.\n\n\nUse Cases:\n\nEvaluating the effectiveness of forecasting models for time series data.\nAnalyzing patterns in economic or financial data.\n\n\n\n\n# Serial Correlation\nserial_correlation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)], method = \"pearson\")\nprint(paste(\"Serial Correlation: \", serial_correlation))\n\n[1] \"Serial Correlation:  0.497048522871431\""
+  },
+  {
+    "objectID": "blog/data-science/blog-12/index.html#inverse-correlation",
+    "href": "blog/data-science/blog-12/index.html#inverse-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Inverse correlation is a negative relationship between two variables where one variable increases while the other decreases.\n\nKey points:\n\nIt indicates an opposite relationship compared to positive correlation.\nThe correlation coefficient is close to -1.\n\n\nUse case:\n\nExamining the relationship between hours spent studying and exam scores. As study time increases, the exam scores tend to decrease."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Krishnakanta Maity",
+    "section": "",
+    "text": "ExperienceEducationCertificationExpertise \n\n\n\nDr. Reddys Laboratories\n\nJunior Data Scientist, Jan'23 - Jun'23\n\nVista Intelligence\n\nResearch Analyst, July'23 - Present\n\n\n\n\n\nRamakrishna Mission Vivekananda Educational and Research Institute Belur Math, Howrah-711202, West Bengal\n\nM.Sc. in Big Data Analytics, 2021-2023\n\n\n\n\nVisva Bharati University (Central University) Shantiniketan, Bolpur-731235, West Bengal\n\nM.Sc. in Statistics, 2018-2020\n\n\n\n\nMidnapore College (Autonomous) Rajabazar, Midnapore-721101, West Bengal\n\nB.Sc. in Statistics, 2015-2018\n\nMugberia Gangadhar High School (H.S.) Bhupatinagar ; Purba Medinipur-721425, West Bengal\n\nHigher Secondary (W.B. Board), 2013-2015\n\nTikashi Uttar Kalamdan Bashuli Vidyayatan (H.S.) Tikashi, Purba Mediniput-721430, West Bengal\n\nSecondary (W.B. Board), 2007-2013\n\n\n\n\n\nNISM XV Certified Research Analyst\nArtificial Intelligence (AI) for Investments\n\n\n\n\nSKILLS\n\n\n\n\n\n\n\n\n\nLanguage\nAnalytics\nDataBase\nFramework\n\n\n\n\n \n \n \n\n\n\n\nPACKAGES\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIDE & TOOLS"
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Correlation is a statistical measure that quantifies the relationship between two variables. It helps us understand how changes in one variable correspond to changes in another variable. While correlation is a commonly used concept, there are various types of correlation that serve different purposes and provide distinct insights. In this blog post, we will explore and compare five types of correlation: correlation, multiple correlation, partial correlation, autocorrelation, and serial correlation. We will discuss their key points and use cases, along with examples in R.\n\n# Load necessary libraries\nlibrary(datasets)\n\n# Load the built-in dataset \"mtcars\"\ndata(mtcars)\n\n\n\nMeasures the degree of association between two continuous variables.\nRanges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.\nKey Points:\n\nCorrelation assesses the strength and direction of the linear relationship between variables.\nIt helps in identifying patterns and predicting one variable based on another.\n\n\nUse Cases:\n\nUnderstanding the relationship between variables in data analysis.\nFeature selection in machine learning and predictive modeling.\n\n\n\n\n# Correlation\ncorrelation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Correlation: \", correlation))\n\n[1] \"Correlation:  -0.847551379262479\"\n\n\n\n\nExamines the relationship between one dependent variable and multiple independent variables.\nMeasures the overall relationship between the dependent variable and a set of independent variables.\nKey Points:\n\nMultiple correlation is an extension of simple correlation to multiple variables.\nIt helps in understanding how a set of variables collectively influence the dependent variable.\n\n\nUse Cases:\n\nMultiple regression analysis to predict an outcome using multiple predictors.\nAnalyzing the impact of multiple factors on a dependent variable.\n\n\n\n\n# Multiple Correlation\nmultiple_correlation &lt;- cor(mtcars[, c(\"mpg\", \"disp\", \"hp\")])\nmultiple_correlation\n\n            mpg       disp         hp\nmpg   1.0000000 -0.8475514 -0.7761684\ndisp -0.8475514  1.0000000  0.7909486\nhp   -0.7761684  0.7909486  1.0000000\n\n\n\n# Create example data\n# x1 &lt;- c(1, 2, 3, 4, 5)\n# x2 &lt;- c(2, 4, 6, 8, 10)\n# y &lt;- c(3, 5, 7, 9, 11)\nx1 &lt;- mtcars$mpg\nx2 &lt;- mtcars$disp\ny &lt;- mtcars$hp\n\n# Create a data frame with the variables\ndata &lt;- data.frame(x1, x2, y)\n\n# Calculate the multiple correlation coefficient\nmultiple_corr &lt;- function(data) {\n  # Extract the predictor variables\n  X &lt;- data[, -ncol(data)]\n  # Calculate the inverse of the correlation matrix\n  det_R &lt;- det(cor(data))\n  # Calculate the inverse of the correlation matrix\n  Ryy_inv &lt;- solve(cor(X))\n  # Calculate the multiple correlation coefficient\n  multiple_corr &lt;- sqrt(1 - (det_R * Ryy_inv))\n  \n  return(multiple_corr)\n}\n\n# Call the multiple_corr function\nmultiple_corr_coef &lt;- multiple_corr(data)\n\n# Print the multiple correlation coefficient\nprint(multiple_corr_coef)\n\n          x1        x2\nx1 0.8156843 0.8463801\nx2 0.8463801 0.8156843\n\n\n\n\nMeasures the relationship between two variables while controlling for the effect of other variables.\nProvides a way to assess the direct association between variables, excluding the influence of other variables.\nKey Points:\n\nPartial correlation helps in understanding the unique relationship between two variables.\nIt reveals the direct association after accounting for the effects of other variables.\n\n\nUse Cases:\n\nControlling for confounding variables in observational studies.\nExploring the relationship between two variables when other variables might confound the results.\n\n\n\n\n# Partial Correlation\npartial_correlation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Partial Correlation: \", partial_correlation))\n\n[1] \"Partial Correlation:  -0.847551379262479\"\n\n\n\n\nExamines the correlation between a variable and its past values.\nMeasures the linear dependence of a variable on its lagged values.\nKey Points:\n\nAutocorrelation helps in identifying patterns or trends in time series data.\nIt is useful for analyzing and forecasting time-dependent phenomena.\n\n\nUse Cases:\n\nAnalysis of stock market data to identify trends or predict future prices.\nAnalyzing seasonal patterns in weather data.\n\n\n\n\n# Autocorrelation\nautocorrelation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)])\nprint(paste(\"Autocorrelation: \", autocorrelation))\n\n[1] \"Autocorrelation:  0.497048522871431\"\n\n\n\n\nMeasures the correlation between observations in a time series.\nAssesses the linear relationship between current and previous observations.\nKey Points:\n\nSerial correlation is similar to autocorrelation but focuses on the relationship between adjacent observations.\nIt helps in detecting patterns or dependencies in sequential data.\n\n\nUse Cases:\n\nEvaluating the effectiveness of forecasting models for time series data.\nAnalyzing patterns in economic or financial data.\n\n\n\n\n# Serial Correlation\nserial_correlation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)], method = \"pearson\")\nprint(paste(\"Serial Correlation: \", serial_correlation))\n\n[1] \"Serial Correlation:  0.497048522871431\"\n\n\n\nInverse correlation is a negative relationship between two variables where one variable increases while the other decreases.\n\nKey points:\n\nIt indicates an opposite relationship compared to positive correlation.\nThe correlation coefficient is close to -1.\n\n\nUse case:\n\nExamining the relationship between hours spent studying and exam scores. As study time increases, the exam scores tend to decrease."
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html#correlation",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html#correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the degree of association between two continuous variables.\nRanges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.\nKey Points:\n\nCorrelation assesses the strength and direction of the linear relationship between variables.\nIt helps in identifying patterns and predicting one variable based on another.\n\n\nUse Cases:\n\nUnderstanding the relationship between variables in data analysis.\nFeature selection in machine learning and predictive modeling.\n\n\n\n\n# Correlation\ncorrelation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Correlation: \", correlation))\n\n[1] \"Correlation:  -0.847551379262479\""
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html#multiple-correlation",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html#multiple-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Examines the relationship between one dependent variable and multiple independent variables.\nMeasures the overall relationship between the dependent variable and a set of independent variables.\nKey Points:\n\nMultiple correlation is an extension of simple correlation to multiple variables.\nIt helps in understanding how a set of variables collectively influence the dependent variable.\n\n\nUse Cases:\n\nMultiple regression analysis to predict an outcome using multiple predictors.\nAnalyzing the impact of multiple factors on a dependent variable.\n\n\n\n\n# Multiple Correlation\nmultiple_correlation &lt;- cor(mtcars[, c(\"mpg\", \"disp\", \"hp\")])\nmultiple_correlation\n\n            mpg       disp         hp\nmpg   1.0000000 -0.8475514 -0.7761684\ndisp -0.8475514  1.0000000  0.7909486\nhp   -0.7761684  0.7909486  1.0000000\n\n\n\n# Create example data\n# x1 &lt;- c(1, 2, 3, 4, 5)\n# x2 &lt;- c(2, 4, 6, 8, 10)\n# y &lt;- c(3, 5, 7, 9, 11)\nx1 &lt;- mtcars$mpg\nx2 &lt;- mtcars$disp\ny &lt;- mtcars$hp\n\n# Create a data frame with the variables\ndata &lt;- data.frame(x1, x2, y)\n\n# Calculate the multiple correlation coefficient\nmultiple_corr &lt;- function(data) {\n  # Extract the predictor variables\n  X &lt;- data[, -ncol(data)]\n  # Calculate the inverse of the correlation matrix\n  det_R &lt;- det(cor(data))\n  # Calculate the inverse of the correlation matrix\n  Ryy_inv &lt;- solve(cor(X))\n  # Calculate the multiple correlation coefficient\n  multiple_corr &lt;- sqrt(1 - (det_R * Ryy_inv))\n  \n  return(multiple_corr)\n}\n\n# Call the multiple_corr function\nmultiple_corr_coef &lt;- multiple_corr(data)\n\n# Print the multiple correlation coefficient\nprint(multiple_corr_coef)\n\n          x1        x2\nx1 0.8156843 0.8463801\nx2 0.8463801 0.8156843"
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html#partial-correlation",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html#partial-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the relationship between two variables while controlling for the effect of other variables.\nProvides a way to assess the direct association between variables, excluding the influence of other variables.\nKey Points:\n\nPartial correlation helps in understanding the unique relationship between two variables.\nIt reveals the direct association after accounting for the effects of other variables.\n\n\nUse Cases:\n\nControlling for confounding variables in observational studies.\nExploring the relationship between two variables when other variables might confound the results.\n\n\n\n\n# Partial Correlation\npartial_correlation &lt;- cor(mtcars$mpg, mtcars$disp)\nprint(paste(\"Partial Correlation: \", partial_correlation))\n\n[1] \"Partial Correlation:  -0.847551379262479\""
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html#autocorrelation",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html#autocorrelation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Examines the correlation between a variable and its past values.\nMeasures the linear dependence of a variable on its lagged values.\nKey Points:\n\nAutocorrelation helps in identifying patterns or trends in time series data.\nIt is useful for analyzing and forecasting time-dependent phenomena.\n\n\nUse Cases:\n\nAnalysis of stock market data to identify trends or predict future prices.\nAnalyzing seasonal patterns in weather data.\n\n\n\n\n# Autocorrelation\nautocorrelation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)])\nprint(paste(\"Autocorrelation: \", autocorrelation))\n\n[1] \"Autocorrelation:  0.497048522871431\""
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html#serial-correlation",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html#serial-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Measures the correlation between observations in a time series.\nAssesses the linear relationship between current and previous observations.\nKey Points:\n\nSerial correlation is similar to autocorrelation but focuses on the relationship between adjacent observations.\nIt helps in detecting patterns or dependencies in sequential data.\n\n\nUse Cases:\n\nEvaluating the effectiveness of forecasting models for time series data.\nAnalyzing patterns in economic or financial data.\n\n\n\n\n# Serial Correlation\nserial_correlation &lt;- cor(mtcars$mpg[-1], mtcars$mpg[-length(mtcars$mpg)], method = \"pearson\")\nprint(paste(\"Serial Correlation: \", serial_correlation))\n\n[1] \"Serial Correlation:  0.497048522871431\""
+  },
+  {
+    "objectID": "blog/data-science/understanding-different-types-of-correlation/index.html#inverse-correlation",
+    "href": "blog/data-science/understanding-different-types-of-correlation/index.html#inverse-correlation",
+    "title": "Understanding Different types of Correlation",
+    "section": "",
+    "text": "Inverse correlation is a negative relationship between two variables where one variable increases while the other decreases.\n\nKey points:\n\nIt indicates an opposite relationship compared to positive correlation.\nThe correlation coefficient is close to -1.\n\n\nUse case:\n\nExamining the relationship between hours spent studying and exam scores. As study time increases, the exam scores tend to decrease."
+  },
+  {
+    "objectID": "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html",
+    "href": "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html",
+    "title": "Unveiling the Power of Monte Carlo Simulation",
+    "section": "",
+    "text": "Monte Carlo Simulation is a versatile and widely used statistical technique that allows researchers and analysts to model the probability of different outcomes in a process with inherent uncertainty. In this blog post, we will embark on a journey to understand the fundamentals of Monte Carlo Simulation, explore its applications, and provide practical examples using Python.\n\n\nCode\n# Import necessary libraries\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\nMonte Carlo Simulation is a statistical method that leverages random sampling to obtain numerical results. It is particularly useful in situations where deterministic models are impractical due to complex interactions and uncertainties. Monte Carlo methods use random sampling to solve deterministic problems. The technique is named after the Monte Carlo Casino, known for its games of chance.\n\n\nFinancial modeling for risk analysis. Simulating physical systems in engineering. Optimizing business processes under uncertainty.\n\n\nCode\n# Simulating the probability distribution of the sum of two six-sided dice rolls\n# Number of simulations\nnum_simulations = 100000\n# Simulate two dice rolls num_simulations times\ndice_rolls = np.random.randint(1, 7, (num_simulations, 2))\n\n# Calculate the sum of each pair of dice rolls\nsum_of_rolls = np.sum(dice_rolls, axis=1)\n\n# Plot the probability distribution\nplt.hist(sum_of_rolls, bins=np.arange(1.5, 13.5, 1), density=True, edgecolor='black')\nplt.title('Probability Distribution of the Sum of Two Dice Rolls')\nplt.xlabel('Sum of Rolls')\nplt.ylabel('Probability')\nplt.show()\n\n\n\n\n\n\n\n\nRisk Analysis in Finance - Monte Carlo Simulation is extensively used for risk assessment in financial modeling. It helps in understanding the range of possible outcomes and the likelihood of different financial scenarios. Risk analysis assists in making informed investment decisions.\n\n\nCode\n# Financial Monte Carlo Simulation Example\n# Simulating future stock prices based on historical data\n\n# Define parameters\ninitial_price = 100\nvolatility = 0.2\ndrift = 0.001\ntime_horizon = 252  # number of trading days in a year\n\n# Generate random price movements\ndaily_returns = np.random.normal(loc=(1 + drift) ** (1 / time_horizon), scale=volatility / np.sqrt(time_horizon), size=num_simulations)\n\n# Calculate the stock prices over time\nstock_prices = initial_price * np.cumprod(daily_returns)\n\n# Plot the simulated stock prices\nplt.plot(stock_prices, color='blue', alpha=0.5)\nplt.title('Monte Carlo Simulation of Stock Prices')\nplt.xlabel('Trading Days')\nplt.ylabel('Stock Price')\nplt.show()\n\n\n\n\n\nProject Management and Time Estimation Monte Carlo Simulation aids in project management by providing realistic estimates of project timelines. It considers uncertainties and variations in task durations to create a more accurate project schedule. Key Points: Monte Carlo simulations account for variability in project timelines. Project managers can identify critical paths and potential delays. Challenges and Considerations Despite its power, Monte Carlo Simulation has its limitations and challenges. Common challenges include the need for a large number of simulations for accurate results and the assumption of independence among variables. Key Considerations: Ensure input parameters accurately represent the real-world scenario. Be mindful of computational resources when dealing with a large number of simulations. Conclusion Monte Carlo Simulation stands as a valuable tool for decision-makers facing uncertainty in various fields. Its ability to model complex systems and provide probabilistic"
+  },
+  {
+    "objectID": "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html#applications",
+    "href": "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html#applications",
+    "title": "Unveiling the Power of Monte Carlo Simulation",
+    "section": "",
+    "text": "Financial modeling for risk analysis. Simulating physical systems in engineering. Optimizing business processes under uncertainty.\n\n\nCode\n# Simulating the probability distribution of the sum of two six-sided dice rolls\n# Number of simulations\nnum_simulations = 100000\n# Simulate two dice rolls num_simulations times\ndice_rolls = np.random.randint(1, 7, (num_simulations, 2))\n\n# Calculate the sum of each pair of dice rolls\nsum_of_rolls = np.sum(dice_rolls, axis=1)\n\n# Plot the probability distribution\nplt.hist(sum_of_rolls, bins=np.arange(1.5, 13.5, 1), density=True, edgecolor='black')\nplt.title('Probability Distribution of the Sum of Two Dice Rolls')\nplt.xlabel('Sum of Rolls')\nplt.ylabel('Probability')\nplt.show()"
+  },
+  {
+    "objectID": "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html#applications-1",
+    "href": "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html#applications-1",
+    "title": "Unveiling the Power of Monte Carlo Simulation",
+    "section": "",
+    "text": "Risk Analysis in Finance - Monte Carlo Simulation is extensively used for risk assessment in financial modeling. It helps in understanding the range of possible outcomes and the likelihood of different financial scenarios. Risk analysis assists in making informed investment decisions.\n\n\nCode\n# Financial Monte Carlo Simulation Example\n# Simulating future stock prices based on historical data\n\n# Define parameters\ninitial_price = 100\nvolatility = 0.2\ndrift = 0.001\ntime_horizon = 252  # number of trading days in a year\n\n# Generate random price movements\ndaily_returns = np.random.normal(loc=(1 + drift) ** (1 / time_horizon), scale=volatility / np.sqrt(time_horizon), size=num_simulations)\n\n# Calculate the stock prices over time\nstock_prices = initial_price * np.cumprod(daily_returns)\n\n# Plot the simulated stock prices\nplt.plot(stock_prices, color='blue', alpha=0.5)\nplt.title('Monte Carlo Simulation of Stock Prices')\nplt.xlabel('Trading Days')\nplt.ylabel('Stock Price')\nplt.show()\n\n\n\n\n\nProject Management and Time Estimation Monte Carlo Simulation aids in project management by providing realistic estimates of project timelines. It considers uncertainties and variations in task durations to create a more accurate project schedule. Key Points: Monte Carlo simulations account for variability in project timelines. Project managers can identify critical paths and potential delays. Challenges and Considerations Despite its power, Monte Carlo Simulation has its limitations and challenges. Common challenges include the need for a large number of simulations for accurate results and the assumption of independence among variables. Key Considerations: Ensure input parameters accurately represent the real-world scenario. Be mindful of computational resources when dealing with a large number of simulations. Conclusion Monte Carlo Simulation stands as a valuable tool for decision-makers facing uncertainty in various fields. Its ability to model complex systems and provide probabilistic"
+  },
+  {
+    "objectID": "eda.html",
+    "href": "eda.html",
+    "title": "Exploratory Data Analysis",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Krishnakanta Maity",
+    "section": "",
+    "text": "Welcome to my portfolio, a curated collection that reflects my expertise and creativity in datascience. Here, you’ll discover a snapshot of my skills, projects, and achievements that highlight my commitment to excellence and innovation. Each piece within this portfolio tells a unique story, showcasing not only what I’ve accomplished but also the passion and dedication I bring to statistics and datascience. Explore, engage, and witness the fusion of knowledge and creativity that defines my professional journey.  To know more visit about section …"
+  },
+  {
+    "objectID": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html",
+    "href": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html",
+    "title": "Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images",
+    "section": "",
+    "text": "This project aims to detect pneumonia from chest X-ray images using deep learning. The model is trained on 5,863 chest X-ray images and achieved an accuracy of 93.5% on the test set. We have achieved a maximum accuracy of around 70% with Logistic Regression when we used solver as liblinear and in case of Decision Trees, we could achieve an accuracy of 62.5% with a Decision Tree of maximum depth 3."
+  },
+  {
+    "objectID": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html#about",
+    "href": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html#about",
+    "title": "Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images",
+    "section": "",
+    "text": "This project aims to detect pneumonia from chest X-ray images using deep learning. The model is trained on 5,863 chest X-ray images and achieved an accuracy of 93.5% on the test set. We have achieved a maximum accuracy of around 70% with Logistic Regression when we used solver as liblinear and in case of Decision Trees, we could achieve an accuracy of 62.5% with a Decision Tree of maximum depth 3."
+  },
+  {
+    "objectID": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html#source",
+    "href": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html#source",
+    "title": "Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images",
+    "section": "2 Source",
+    "text": "2 Source\n\n          \n\nHere, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links)."
+  },
+  {
+    "objectID": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html#data-overview",
+    "href": "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html#data-overview",
+    "title": "Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images",
+    "section": "3 Data Overview",
+    "text": "3 Data Overview\nDataset is available in Mendeley dataset website (https://data.mendeley.com/datasets/rscbjbr9sj/3) Dataset contains thousands of validated OCT and Chest X-Ray images. The images are split into a training set and a testing set of independent patients. Images are labelled as (disease)- (randomized patient ID)-(image number by this patient) and split into 4 directories: CNV, DME, DRUSEN, and NORMAL."
+  },
+  {
+    "objectID": "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html",
+    "href": "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html",
+    "title": "Mathematics Behind Beauty Of Phyllotaxis Pattern",
+    "section": "",
+    "text": "The project aims to investigate and showcase the intriguing relationship between the golden ratio, golden angle, and the fascinating phenomenon known as phyllotaxis. By leveraging the capabilities of the Shiny web-framework, we provide an interactive and visually engaging platform to explore and understand this connection."
+  },
+  {
+    "objectID": "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html#about",
+    "href": "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html#about",
+    "title": "Mathematics Behind Beauty Of Phyllotaxis Pattern",
+    "section": "",
+    "text": "The project aims to investigate and showcase the intriguing relationship between the golden ratio, golden angle, and the fascinating phenomenon known as phyllotaxis. By leveraging the capabilities of the Shiny web-framework, we provide an interactive and visually engaging platform to explore and understand this connection."
+  },
+  {
+    "objectID": "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html#source",
+    "href": "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html#source",
+    "title": "Mathematics Behind Beauty Of Phyllotaxis Pattern",
+    "section": "2 Source",
+    "text": "2 Source\n\n     \n\nHere, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links).\nExample Several examples are given below. Visit the app link and play with it."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nAnalysis of Diet, Exercise, and Fitness Data (A Visual Exploration)\n\n\n\n\n\n\n\nggplot2\n\n\nEDA\n\n\nVisualization\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nKrishnakanta Maity\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nAssessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images\n\n\n\n\n\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nKrishnakanta Maity\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nDoes Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?\n\n\n\n\n\n\n\nFinance\n\n\nPanel Data\n\n\nDID Regression\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nKrishnakanta Maity\n\n\n3 min\n\n\n\n\n\n\n  \n\n\n\n\nMathematics Behind Beauty Of Phyllotaxis Pattern\n\n\n\n\n\n\n\nShiny\n\n\nPhyllotaxis\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nKrishnakanta Maity\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nPrediction for rating shorts stories of Sherlock Holmes\n\n\n\n\n\n\n\nRegression\n\n\nSentiment Analysis\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2023\n\n\nKrishnakanta Maity\n\n\n3 min\n\n\n\n\n\n\nNo matching items"
+  }
+]

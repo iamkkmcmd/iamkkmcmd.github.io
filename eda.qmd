@@ -1,0 +1,17 @@
+---
+title: "Exploratory Data Analysis"
+# subtitle: "This page contains all of my work related to purely data analysis and visualization."
+listing:
+  contents: eda
+  fields: [title, subtitle, author, description, date, image, image-alt, reading-time, categories]
+  max-description-length: 150
+  type: grid
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 5
+  image-height: 180px
+page-layout: full
+# title-block-banner: true
+---

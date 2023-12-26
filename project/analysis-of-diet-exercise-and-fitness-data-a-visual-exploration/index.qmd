@@ -1,0 +1,25 @@
+---
+title: "Analysis of Diet, Exercise, and Fitness Data (A Visual Exploration)"
+author: "Krishnakanta Maity"
+date: "2023-06-11"
+categories: [ggplot2, EDA, Visualization]
+image: "card_img.png"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Content
+---
+
+## About
+In our day to day life, especially amidst the Covid situation, our diet and our exercise effect our fitness to a very large level which is very important to live a safe & healthy life. Now our main objective behind this study is to analysis how much our diet and exercise effects our fitness. The study population is young students and target population is our friends. Sample is collected from them.
+
+## Source
+
+<div style="text-align: center;">
+  [{{< fa brands github size=Large title='Visit Project Repo'>}}](https://github.com/iamkkmcmd/PDS-Project) &nbsp; &nbsp;
+  [{{< fa file-pdf size=Large title='View PDF Report'>}}](https://github.com/iamkkmcmd/PDS-Project/blob/main/report/Report.pdf) &nbsp; &nbsp;
+  [{{< fa file-powerpoint size=Large title='View PPT Report'>}}](https://github.com/iamkkmcmd/PDS-Project/blob/main/report/ppt_final.pptx)
+</div>
+
+Here, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links).

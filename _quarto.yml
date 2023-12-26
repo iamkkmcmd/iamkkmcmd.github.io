@@ -1,0 +1,96 @@
+project:
+  type: website
+  output-dir: docs
+lang: en
+website:
+  title: ""
+  search: 
+    location: navbar
+    type: overlay
+  favicon: ./asset/img/favicon.png
+  google-analytics: "G-G4CFESH7GK"
+  cookie-consent: true
+  page-footer:
+    left: "Copyright @ 2023 <br> **Krishnakanta Maity**"
+    center: |
+      Built with ❤️ using [RStudio](https://posit.co/download/rstudio-desktop/) and [Github Pages](https://pages.github.com/)
+      || [Gihub Source](https://github.com/iamkkmcmd/iamkkmcmd.github.io)
+    right: "
+        [Feedback](https://github.com/iamkkmcmd.github.io/feedback.html) 
+        <br>
+        [{{< fa envelope title='Drop Mail'>}}](mailto:iamkkmcmd@gmail.com) &nbsp; &nbsp;
+        [{{< fa brands linkedin title='Visit Linkedin'>}}](https://www.linkedin.com/in/iamkkmcmd) &nbsp; &nbsp;
+        [{{< fa brands github title='Visit Github'>}}](https://github.com/iamkkmcmd)
+      "
+    background: "#16b1b5"
+  
+  navbar:
+    logo: asset/img/apple-touch-icon.png
+    logo-alt: "iamkkmcmd"
+    logo-href: "https://iamkkmcmd.github.io/about.html"
+    search: true
+    pinned: true
+    collapse: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: project.qmd
+        text: Project
+      - href: blog.qmd
+        text: Blog
+      - href: eda.qmd
+        text: EDA
+    right:
+      - href: resume.qmd
+        text: Resume
+      - icon: linkedin
+        href: https://www.linkedin.com/in/iamkkmcmd
+      - icon: github
+        href: https://github.com/iamkkmcmd
+      # - icon: whatsapp
+      #   href: https://wa.me/8637510382
+
+format:
+  html:
+    smooth-scroll: true
+    css: styles.css
+    theme:
+      dark: [cyborg, asset/theme/dark-theme.scss]
+      light: [lumen, asset/theme/light-theme.scss]
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 2rem
+    # link realted settings
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.iamkkmcmd.github\.io\/custom'
+    # reference popup settings
+    citations-hover: true
+    footnotes-hover: true
+    # table of contents related settings
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+    toc-location: left
+    toc-title: Contents
+    # section numbering related settings
+    number-sections: true
+    number-depth: 3
+    anchor-sections: true
+    # code realted settings
+    code-link: true
+    highlight-style: github
+    code-block-bg: true
+    code-line-numbers: true
+    code-block-background: true
+    code-block-border-left: "#31BAE9"
+    # equation realted settings
+    html-math-method: katex
+
+
+editor: visual
+

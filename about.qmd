@@ -1,0 +1,89 @@
+---
+title: "Krishnakanta Maity"
+subtitle: "Statistician <br> Data Scientist"
+image: ./asset/img/Krishnakanta_Maity_Photo.jpg
+about:
+  template: trestles
+  image-width: 8em
+  image-shape: rounded
+  links:
+    - icon: chat-right-text-fill
+      text: I possess a unique blend of analytical expertise and data-driven problem-solving skills. With a passion for uncovering insights and driving informed decision-making, I strive to leverage data to make a meaningful impact and drive innovation in the field of statistics and data science.
+format: 
+  html:
+    page-layout: full
+---
+
+::: panel-tabset
+
+## Experience
+
+-   **Dr. Reddys Laboratories**
+
+    -   Junior Data Scientist, `Jan'23 - Jun'23`
+
+-   **Vista Intelligence**
+
+    -   Research Analyst, `July'23 - Present`
+
+## Education
+
+-   [**Ramakrishna Mission Vivekananda Educational and Research Institute**](https://cs.rkmvu.ac.in/ "https://cs.rkmvu.ac.in/") Belur Math, Howrah-711202, West Bengal
+
+    -   **M.Sc. in Big Data Analytics**, `2021-2023`
+
+<!-- -->
+
+-   [**Visva Bharati University (Central University)**](https://www.visvabharati.ac.in/ "https://www.visvabharati.ac.in/") Shantiniketan, Bolpur-731235, West Bengal
+
+    -   **M.Sc. in Statistics**, `2018-2020`
+
+<!-- -->
+
+-   [**Midnapore College (Autonomous)**](https://midnaporecollege.ac.in/ "https://midnaporecollege.ac.in/") Rajabazar, Midnapore-721101, West Bengal
+
+    -   **B.Sc. in Statistics**, `2015-2018`
+  
+- [**Mugberia Gangadhar High School (H.S.)**]() Bhupatinagar ; Purba Medinipur-721425, West Bengal
+
+    - **Higher Secondary (W.B. Board)**, `2013-2015`
+
+-   [**Tikashi Uttar Kalamdan Bashuli Vidyayatan (H.S.)**]() Tikashi, Purba Mediniput-721430, West Bengal
+
+    - **Secondary (W.B. Board)**, `2007-2013`
+
+## Certification
+
+-   [NISM XV Certified Research Analyst](./asset/img/nism_certificate.png)
+
+-   [Artificial Intelligence (AI) for Investments](https://internalapp.nptel.ac.in/NOC/NOC23/SEM1/Ecertificates/110/noc23-mg63/Course/NPTEL23MG63S3375242404157859.jpg)
+
+## Expertise <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px" height="32px"/>
+
+-   **SKILLS**
+
+    |Language|Analytics|DataBase|Framework|
+    |:----------------:|:----------------:|:----------------:|:----------------:|
+    |![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)|
+
+-   **PACKAGES**
+
+    ||||||||||
+    |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+    | <img src="https://github.com/tidyverse/tidyverse.org/blob/master/static/images/hex-tidyverse.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/tidyr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/rvest/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/stringr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/lubridate/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/purrr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/readr/blob/main/man/figures/logo.png?raw=true" height="50px"/> |
+
+    |||||||
+    |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+    | <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&amp;logo=plotly&amp;logoColor=white"/> |
+
+-   **IDE & TOOLS**
+
+    |||||
+    |:----------------:|:----------------:|:-----------------:|:----------------:|
+    | ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) | ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) | ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) |
+
+    ||||
+    |:----------------------:|:---------------------:|:------------------------:|
+    | ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) | ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |
+
+:::

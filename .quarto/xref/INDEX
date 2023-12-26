@@ -1,0 +1,74 @@
+{
+  "about.qmd": {
+    "about.html": "c7b8adef"
+  },
+  "index.qmd": {
+    "index.html": "5081cda4"
+  },
+  "blog.qmd": {
+    "blog.html": "bc0795af"
+  },
+  "eda.qmd": {
+    "eda.html": "0076fffd"
+  },
+  "feedback.qmd": {
+    "feedback.html": "f04691a4"
+  },
+  "project.qmd": {
+    "project.html": "8d79d71c"
+  },
+  "resume.qmd": {
+    "resume.html": "69a5af51"
+  },
+  "project/project_1/index.qmd": {
+    "index.html": "3c6b609d"
+  },
+  "project/project_2/index.qmd": {
+    "index.html": "137d8451"
+  },
+  "project/project_3/index.qmd": {
+    "index.html": "ceeca434"
+  },
+  "project/project_4/index.qmd": {
+    "index.html": "04e511ce"
+  },
+  "project/project_5/index.qmd": {
+    "index.html": "650dbd60"
+  },
+  "project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.qmd": {
+    "index.html": "e48aee07"
+  },
+  "project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.qmd": {
+    "index.html": "a3772c9d"
+  },
+  "project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.qmd": {
+    "index.html": "9ab3d433"
+  },
+  "project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.qmd": {
+    "index.html": "0fbe68f8"
+  },
+  "project/prediction-for-rating-short-stories-of-sherlock-holmes/index.qmd": {
+    "index.html": "b67e35ee"
+  },
+  "404.qmd": {
+    "404.html": "84a5c1c1"
+  },
+  "blog/understanding-different-types-of-correlation/index.qmd": {
+    "index.html": "242af27f"
+  },
+  "blog/data-science/understanding-different-types-of-correlation/index.qmd": {
+    "index.html": "bf12453e"
+  },
+  "blog/statistics/understanding-different-types-of-correlation/index.qmd": {
+    "index.html": "69c13b9f"
+  },
+  "blog/data-science/blog-12/index.qmd": {
+    "index.html": "bc75c525"
+  },
+  "blog/statistics/blog-22/index.qmd": {
+    "index.html": "7d898dc6"
+  },
+  "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.qmd": {
+    "index.html": "52e69153"
+  }
+}

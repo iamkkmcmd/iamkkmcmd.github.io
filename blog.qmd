@@ -1,0 +1,32 @@
+---
+# title: "Blogs"
+subtitle: "This page contains all of blogs written by me."
+listing:
+  - id: statistics
+    contents: "blog/statistics"
+    type: table
+    fields: [image, date, title, author, reading-time]
+    sort: "date desc"
+    categories: true
+    page-size: 5
+    image-height: 50px
+  - id: data-science
+    contents: "blog/data-science"
+    type: table
+    fields: [image, date, title, author, reading-time]
+    sort: "date desc"
+    categories: true
+    page-size: 5
+    image-height: 50px
+
+page-layout: full
+# title-block-banner: true
+---
+
+## Statistics
+:::{#statistics}
+:::
+
+## Data Science
+:::{data-science}
+:::

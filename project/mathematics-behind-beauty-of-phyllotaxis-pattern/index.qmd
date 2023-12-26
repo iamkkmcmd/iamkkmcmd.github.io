@@ -1,0 +1,28 @@
+---
+title: "Mathematics Behind Beauty Of Phyllotaxis Pattern"
+author: "Krishnakanta Maity"
+date: "2023-06-11"
+categories: [Shiny, Phyllotaxis]
+image: "card_img.png"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Content
+---
+
+## About
+The project aims to investigate and showcase the intriguing relationship between the golden ratio, golden angle, and the fascinating phenomenon known as phyllotaxis. By leveraging the capabilities of the Shiny web-framework, we provide an interactive and visually engaging platform to explore and understand this connection.
+
+## Source 
+
+<div style="text-align: center;">
+  [{{< fa brands github size=Large title='Visit Project Repo'>}}](https://github.com/iamkkmcmd/BeautyOfNature) &nbsp; &nbsp;
+  [{{< fa arrow-up-right-from-square size=Large title='View PDF Report'>}}](https://iamkkm-cmd.shinyapps.io/BeautyOfNature/)
+</div>
+
+Here, I provide an overview of the project. To delve into the methodology and explore the critical findings, I encourage you to review the accompanying slides and detailed report (above links).
+
+Example
+Several examples are given below. Visit the [app link](https://iamkkm-cmd.shinyapps.io/BeautyOfNature/) and play with it.
+

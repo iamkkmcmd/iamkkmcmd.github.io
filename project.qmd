@@ -1,0 +1,18 @@
+---
+# title: "Project"
+# subtitle: "This page contains all of my project work from my student life."
+listing:
+  contents: project
+  fields: [title, subtitle, author, description, date, image, image-alt, reading-time, categories]
+  max-description-length: 150
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 10
+  image-height: 180px
+  feed: true
+page-layout: full
+# title-block-banner: true
+---

@@ -1,0 +1,14 @@
+{
+  "listingMap": {
+    "blog.qmd": [
+      "blog/statistics",
+      "blog/data-science"
+    ],
+    "eda.qmd": [
+      "eda"
+    ],
+    "project.qmd": [
+      "project"
+    ]
+  }
+}
