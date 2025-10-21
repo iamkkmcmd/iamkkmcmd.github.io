@@ -70,5 +70,26 @@
   },
   "blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.qmd": {
     "index.html": "52e69153"
+  },
+  "blog/data-science/understanding-central/index.qmd": {
+    "index.html": "78ff5cf3"
+  },
+  "blog/statistics/understanding-central-limit-theorem/index.qmd": {
+    "index.html": "eb06d5e7"
+  },
+  "blog/statistics/power-of-monte-carlo-simulation/index.qmd": {
+    "index.html": "e3af5df6"
+  },
+  "blog/statistics/central-limit-theorem/index.qmd": {
+    "index.html": "3291c20e"
+  },
+  "blog/statistics/different-types-of-correlation/index.qmd": {
+    "index.html": "8d0c48bb"
+  },
+  "blog/data-science/categorical-encoding-demystified/test.ipynb": {
+    "test.html": "0fa7b5ef"
+  },
+  "blog/data-science/categorical-encoding-demystified/index.qmd": {
+    "index.html": "fa0364a5"
   }
 }

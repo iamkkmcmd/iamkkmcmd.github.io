@@ -18,13 +18,19 @@ format:
 
 ## Experience
 
--   **Dr. Reddys Laboratories**
+-   **Feedsense AI**
 
-    -   Junior Data Scientist, `Jan'23 - Jun'23`
+    -   [Kolkata] Senior Research Analyst, `Apr'24 - Present`
 
 -   **Vista Intelligence**
 
-    -   Research Analyst, `July'23 - Present`
+    -   [Kolkata] Research Analyst, `July'23 - Mar'24`
+
+-   **Dr. Reddys Laboratories**
+
+    -   [Hyderabad] Junior Data Scientist, `Jan'23 - Jun'23`
+
+
 
 ## Education
 
@@ -57,6 +63,8 @@ format:
 -   [NISM XV Certified Research Analyst](./asset/img/nism_certificate.png)
 
 -   [Artificial Intelligence (AI) for Investments](https://internalapp.nptel.ac.in/NOC/NOC23/SEM1/Ecertificates/110/noc23-mg63/Course/NPTEL23MG63S3375242404157859.jpg)
+
+-   [Others] Many more ..
 
 ## Expertise <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px" height="32px"/>
 

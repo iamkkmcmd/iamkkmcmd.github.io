@@ -1,0 +1,274 @@
+---
+title: "Categorical Encoding Demystified"
+author: "Krishnakanta Maity"
+date: "2024-12-19"
+categories: [machine-learning, encoding]
+image: "categorical-encoding-demystified.png"
+format:
+  html:
+    toc: true
+    toc-expand: 4
+    toc-location: right
+    toc-title: Contents
+    html-math-method: katex
+    code-fold: true
+---
+
+# Introduction
+
+In real-world datasets, not all variable is numeric. Many are *categorical* — for example:
+
+-   `city`: {Delhi, Mumbai, Chennai}\
+-   `education`: {Graduate, Postgraduate, PhD}\
+-   `gender`: {Male, Female}
+
+But mathematical calculation can be done in numerics only, thats why machine learning models require **numbers** as inputs. That’s where **categorical encoding** comes in.
+
+In this blog, we’ll explore the **three most common encoding techniques**:
+
+1.  One-Hot Encoding\
+2.  Label Encoding\
+3.  Target Encoding
+
+and see how they behave in a **regression task**.
+
+------------------------------------------------------------------------
+
+# Dataset
+
+Let’s simulate a simple dataset of house prices with a few categorical features.
+
+```{python}
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score, mean_squared_error
+import matplotlib.pyplot as plt
+import warnings; warnings.filterwarnings("ignore")
+```
+
+```{python}
+# Create synthetic dataset
+np.random.seed(42)
+sample_size = 1000
+data = pd.DataFrame({
+    'city': np.random.choice(['Delhi', 'Mumbai', 'Chennai', 'Kolkata'], sample_size),
+    'furnishing': np.random.choice(['Furnished', 'Semi', 'Unfurnished'], sample_size),
+    'size_sqft': np.random.randint(500, 2000, sample_size),
+    'price_lakhs': np.random.randint(30, 120, sample_size)
+})
+
+data
+```
+
+# 0️⃣↔️1️⃣ 1. One-Hot Encoding
+
+One-Hot Encoding creates a new column for each category. Each row gets a binary (0 or 1) depending on whether the category applies.
+
+```{python}
+# one-hot encode
+df_ohe = data.copy()
+encoder = OneHotEncoder(sparse_output=False)
+encodedObj = encoder.fit_transform(df_ohe[['city']])
+df_encoded = pd.DataFrame(encodedObj, columns=encoder.get_feature_names_out(['city']))
+print(df_encoded.head())
+# combine with original dataframe
+df_ohe = pd.concat([df_ohe, df_encoded], axis=1).reset_index(drop=True)
+print(df_ohe.head())
+```
+
+::: callout-caution
+## When to use
+
+-   Works best when the number of unique categories is small.
+-   Avoid if the column has many unique values — it leads to the curse of dimensionality.
+:::
+
+# 🔠↔️🔢 2. Label Encoding
+
+Label Encoding simply assigns a numeric label to each category.
+
+```{python}
+# label encode
+df_le = data.copy()
+encoder = LabelEncoder()
+encodedObj = encoder.fit_transform(df_le[['city']])
+# get mapper
+print(dict(zip(encoder.classes_, encoder.transform(encoder.classes_))))
+df_encoded = pd.DataFrame(encodedObj, columns=['city_le'])
+print(df_encoded.head())
+# combine with original dataframe
+df_le = pd.concat([df_le, df_encoded], axis=1).reset_index(drop=True)
+print(df_le.head())
+```
+
+::: callout-warning
+## Warning
+
+Models may interpret the numeric labels as ordinal (i.e., ordered), even when they’re not. That can mislead linear models like regression.
+:::
+
+::: callout-caution
+## When to use
+
+-   Works fine for tree-based models (e.g., RandomForest, XGBoost).
+-   Avoid for linear regression, SVM, or distance-based models.
+:::
+
+# 🎯↔️🔢 3. Target Encoding
+
+Target Encoding replaces each category with the average value of the target variable (like price).
+
+```{python}
+df_te = data.copy()
+df_te['city_target'] = df_te.groupby('city')['price_lakhs'].transform('mean')
+df_te[['city', 'price_lakhs', 'city_target']]
+```
+
+::: callout-caution
+## When to use
+
+-   Great for high-cardinality features (many unique categories).
+-   Risk of data leakage — use it only within cross-validation folds.
+:::
+
+# ⚖️ Comparing Impact in a Regression Task
+
+Let’s see how encoding affects a simple linear regression model.
+
+## One-Hot Encoding
+
+```{python}
+# Use one-hot encoded data for regression
+X = df_ohe.drop(columns=['city','furnishing','price_lakhs'])
+print(f"Independent variable/Feature(s): {list(X.columns)}")
+y = df_ohe['price_lakhs']
+print(f"Dependent variable/Target: {y.name}")
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# training
+model_ohe = LinearRegression()
+model_ohe.fit(X_train, y_train)
+# prediction
+preds_ohe = model_ohe.predict(X_test)
+print(pd.DataFrame({'Actual': y_test, 'Predicted': np.round(preds_ohe, 2)}).head())
+# evaluation
+r2_ohe = r2_score(y_test, preds_ohe)
+mse_ohe = mean_squared_error(y_test, preds_ohe)
+print(f"""R² Score: {r2_ohe:0.6f}, MSE: {mse_ohe:0.6f}""")
+```
+
+## Label Enconding
+
+```{python}
+X = df_le.drop(columns=['city','furnishing','price_lakhs'])
+print(f"Independent variable/Feature(s): {list(X.columns)}")
+y = df_le['price_lakhs']
+print(f"Dependent variable/Target: {y.name}")
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# training
+model_le = LinearRegression()
+model_le.fit(X_train, y_train)
+
+# prediction
+preds_le = model_le.predict(X_test)
+print(pd.DataFrame({'Actual': y_test, 'Predicted': np.round(preds_le, 2)}).head())
+
+# evaluation
+r2_le = r2_score(y_test, preds_le)
+mse_le = mean_squared_error(y_test, preds_le)
+print(f"""R² Score: {r2_le:0.6f}, MSE: {mse_le:0.6f}""")
+```
+
+## Target Enconding
+
+```{python}
+X = df_te[['city_target', 'size_sqft']]
+print(f"Independent variable/Feature(s): {list(X.columns)}")
+y = df_te['price_lakhs']
+print(f"Dependent variable/Target: {y.name}")
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# training
+model_te = LinearRegression()
+model_te.fit(X_train, y_train)
+
+# prediction
+preds_te = model_te.predict(X_test)
+print(pd.DataFrame({'Actual': y_test, 'Predicted': np.round(preds_te, 2)}).head())
+
+# evaluation
+r2_te = r2_score(y_test, preds_te)
+mse_te = mean_squared_error(y_test, preds_te)
+print(f"""R² Score: {r2_te:0.6f}, MSE: {mse_te:0.6f}""")
+```
+
+## Comparison
+
+```{python}
+# Compare R² across encoders
+
+results_df = pd.DataFrame({
+'Encoding': ['One-Hot', 'Label', 'Target'],
+'R2_Score': [r2_ohe, r2_le, r2_te],
+'MSE': [mse_ohe, mse_le, mse_te]
+})
+
+plt.figure(figsize=(6,4))
+plt.bar(results_df['Encoding'], results_df['R2_Score'],
+color=['#4CAF50', '#FF9800', '#2196F3'], edgecolor='black')
+plt.title('Regression Performance by Encoding Type', fontsize=13)
+plt.xlabel('Encoding Method')
+plt.ylabel('R² Score')
+plt.grid(axis='y', linestyle='--', alpha=0.6)
+plt.show()
+
+```
+
+```{python}
+plt.figure(figsize=(8, 4))
+plt.plot(preds_ohe, label='One-Hot Encoding', color='green', alpha=0.7)
+plt.plot(preds_le, label='Label Encoding', color='orange', alpha=0.7)
+plt.plot(preds_te, label='Target Encoding', color='steelblue', alpha=0.7)
+
+plt.title("Predicted Prices Across Encoding Methods")
+plt.xlabel("Test Sample Index")
+plt.ylabel("Predicted Price (Lakhs)")
+plt.legend()
+plt.grid(True, alpha=0.3)
+plt.tight_layout()
+plt.show()
+
+```
+
+It shows predicted prices (in lakhs) for test samples indexed from 0 to 300 on the x-axis. The y-axis ranges roughly from 70 to 78 lakhs.
+
+Three different encoding methods are compared:
+
+-   One-Hot Encoding (green line) with high fluctuation in values between about 70 and 77 lakhs.
+
+-   Label Encoding (orange line) which is very stable around 74 lakhs.
+
+-   Target Encoding (blue line) which fluctuates between about 70 and 77 lakhs, somewhat similar to one-hot encoding but with different patterns.
+
+The plot clearly demonstrates how predicted price variance differs depending on the encoding method used for the test samples. Label encoding leads to the most stable price predictions, while one-hot and target encoding lead to more volatile predictions.
+
+# 🧭 Summary
+
+| Encoder Type | Pros | Cons | Best For |
+|:-----------------------|:---------------|:---------------|:-----------------|
+| **One-Hot** | Simple, interpretable | High dimensionality | Small categorical sets |
+| **Label** | Compact, easy | May imply order | Tree-based models |
+| **Target** | Handles many categories | Risk of leakage | Large datasets, regularized models |
+
+Categorical encoding isn’t just preprocessing — it’s part of feature engineering intelligence. A good choice of encoding can **make or break** model performance.
+
+::: callout-note
+Next time you face a categorical column, remember: "Encoding is not just transformation — it’s translation."
+:::

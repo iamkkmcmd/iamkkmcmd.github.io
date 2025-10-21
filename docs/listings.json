@@ -1,25 +1,26 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/statistics/unveiling-the-power-of-monte-carlo-simulation/index.html",
-      "/blog/statistics/understanding-different-types-of-correlation/index.html",
-      "/blog/data-science/blog-12/index.html",
-      "/blog/data-science/understanding-different-types-of-correlation/index.html"
-    ]
-  },
-  {
     "listing": "/eda.html",
     "items": []
   },
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/statistics/central-limit-theorem/index.html",
+      "/blog/statistics/power-of-monte-carlo-simulation/index.html",
+      "/blog/statistics/different-types-of-correlation/index.html",
+      "/blog/data-science/categorical-encoding-demystified/index.html",
+      "/blog/data-science/understanding-different-types-of-correlation/index.html"
+    ]
+  },
+  {
     "listing": "/project.html",
     "items": [
-      "/project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html",
-      "/project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html",
       "/project/does-bank-vulnerability-impact-the-firm-level-crash-risk-during-economic-stree-period/index.html",
+      "/project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html",
+      "/project/assessing-the-feasibility-of-diagnosis-of-pneumonia-using-chest-x-ray-images/index.html",
       "/project/mathematics-behind-beauty-of-phyllotaxis-pattern/index.html",
-      "/project/prediction-for-rating-short-stories-of-sherlock-holmes/index.html"
+      "/project/analysis-of-diet-exercise-and-fitness-data-a-visual-exploration/index.html"
     ]
   }
 ]

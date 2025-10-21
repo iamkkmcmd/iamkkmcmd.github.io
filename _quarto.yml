@@ -11,9 +11,9 @@ website:
   google-analytics: "G-G4CFESH7GK"
   cookie-consent: true
   page-footer:
-    left: "Copyright @ 2023 <br> **Krishnakanta Maity**"
+    left: "Copyright @ 2025 <br> **Krishnakanta Maity**"
     center: |
-      Built with ❤️ using [RStudio](https://posit.co/download/rstudio-desktop/) and [Github Pages](https://pages.github.com/)
+      Built with ❤️ using [Quarto](https://quarto.org/) and [Github Pages](https://pages.github.com/)
       || [Gihub Source](https://github.com/iamkkmcmd/iamkkmcmd.github.io)
     right: "
         [Feedback](https://iamkkmcmd.github.io/feedback.html) 

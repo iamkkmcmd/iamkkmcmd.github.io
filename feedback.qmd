@@ -1,10 +1,10 @@
 ---
-title: "{{< animate bounceIn 'Site Feedback' duration=faster >}}"
+title: "Site Feedback"
 page-layout: full
 comments: false
 back-to-top-navigation: false
 ---
 
-:::{.animate__animate .animate__bounceIn .animate__duration-faster .animate__delay-1s}
+:::
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeazIU3AOU5xCfRqq9PhRwY3sa257hhpHUoZFw1SnbSXV_KLg/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 :::
