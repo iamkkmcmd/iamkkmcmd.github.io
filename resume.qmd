@@ -1,3 +1,3 @@
-<iframe width="800" height="1200" src="./asset/pdf/Krishnakanta_Maity_Resume.pdf">
+<iframe width="800" height="1200" src="./asset/pdf/Krishnakanta_Maity_Resume_V2_0_1.pdf">
 
 </iframe>

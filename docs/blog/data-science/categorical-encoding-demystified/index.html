@@ -457,7 +457,7 @@ cookieconsent.run({
 <section id="dataset" class="level1" data-number="2">
 <h1 data-number="2"><span class="header-section-number">2</span> Dataset</h1>
 <p>Let’s simulate a simple dataset of house prices with a few categorical features.</p>
-<div id="7c120bab" class="cell" data-execution_count="1">
+<div id="44d32f79" class="cell" data-execution_count="1">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
@@ -470,7 +470,7 @@ cookieconsent.run({
 <span id="cb1-8"><a href="#cb1-8"></a><span class="im">import</span> warnings<span class="op">;</span> warnings.filterwarnings(<span class="st">"ignore"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
-<div id="9352d7cd" class="cell" data-execution_count="2">
+<div id="7ac12e83" class="cell" data-execution_count="2">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a><span class="co"># Create synthetic dataset</span></span>
@@ -588,7 +588,7 @@ cookieconsent.run({
 <section id="one-hot-encoding" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> 0️⃣↔︎️1️⃣ 1. One-Hot Encoding</h1>
 <p>One-Hot Encoding creates a new column for each category. Each row gets a binary (0 or 1) depending on whether the category applies.</p>
-<div id="4dfe8b33" class="cell" data-execution_count="3">
+<div id="3fbde151" class="cell" data-execution_count="3">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a><span class="co"># one-hot encode</span></span>
@@ -643,7 +643,7 @@ cookieconsent.run({
 <section id="label-encoding" class="level1" data-number="4">
 <h1 data-number="4"><span class="header-section-number">4</span> 🔠↔︎️🔢 2. Label Encoding</h1>
 <p>Label Encoding simply assigns a numeric label to each category.</p>
-<div id="397f0710" class="cell" data-execution_count="4">
+<div id="e03cf842" class="cell" data-execution_count="4">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1"></a><span class="co"># label encode</span></span>
@@ -707,7 +707,7 @@ cookieconsent.run({
 <section id="target-encoding" class="level1" data-number="5">
 <h1 data-number="5"><span class="header-section-number">5</span> 🎯↔︎️🔢 3. Target Encoding</h1>
 <p>Target Encoding replaces each category with the average value of the target variable (like price).</p>
-<div id="36a66458" class="cell" data-execution_count="5">
+<div id="aada87fd" class="cell" data-execution_count="5">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1"></a>df_te <span class="op">=</span> data.copy()</span>
@@ -823,7 +823,7 @@ cookieconsent.run({
 <p>Let’s see how encoding affects a simple linear regression model.</p>
 <section id="one-hot-encoding-1" class="level2" data-number="6.1">
 <h2 data-number="6.1" class="anchored" data-anchor-id="one-hot-encoding-1"><span class="header-section-number">6.1</span> One-Hot Encoding</h2>
-<div id="c98c01fb" class="cell" data-execution_count="6">
+<div id="1e75888d" class="cell" data-execution_count="6">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># Use one-hot encoded data for regression</span></span>
@@ -860,7 +860,7 @@ R² Score: -0.005375, MSE: 673.276323</code></pre>
 </section>
 <section id="label-enconding" class="level2" data-number="6.2">
 <h2 data-number="6.2" class="anchored" data-anchor-id="label-enconding"><span class="header-section-number">6.2</span> Label Enconding</h2>
-<div id="176e1919" class="cell" data-execution_count="7">
+<div id="a2d383e1" class="cell" data-execution_count="7">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1"></a>X <span class="op">=</span> df_le.drop(columns<span class="op">=</span>[<span class="st">'city'</span>,<span class="st">'furnishing'</span>,<span class="st">'price_lakhs'</span>])</span>
@@ -898,7 +898,7 @@ R² Score: -0.002678, MSE: 671.469921</code></pre>
 </section>
 <section id="target-enconding" class="level2" data-number="6.3">
 <h2 data-number="6.3" class="anchored" data-anchor-id="target-enconding"><span class="header-section-number">6.3</span> Target Enconding</h2>
-<div id="38dea52a" class="cell" data-execution_count="8">
+<div id="c757922f" class="cell" data-execution_count="8">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1"></a>X <span class="op">=</span> df_te[[<span class="st">'city_target'</span>, <span class="st">'size_sqft'</span>]]</span>
@@ -936,7 +936,7 @@ R² Score: -0.000205, MSE: 669.813730</code></pre>
 </section>
 <section id="comparison" class="level2" data-number="6.4">
 <h2 data-number="6.4" class="anchored" data-anchor-id="comparison"><span class="header-section-number">6.4</span> Comparison</h2>
-<div id="9bd37b69" class="cell" data-execution_count="9">
+<div id="df8b526e" class="cell" data-execution_count="9">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb14"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1"></a><span class="co"># Compare R² across encoders</span></span>
@@ -964,7 +964,7 @@ R² Score: -0.000205, MSE: 669.813730</code></pre>
 </div>
 </div>
 </div>
-<div id="408fc5e5" class="cell" data-execution_count="10">
+<div id="019e9c1b" class="cell" data-execution_count="10">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">8</span>, <span class="dv">4</span>))</span>
@@ -1477,7 +1477,7 @@ Note
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright @ 2025 <br> <strong>Krishnakanta Maity</strong></p>
+<p>Copyright @ 2026 <br> <strong>Krishnakanta Maity</strong></p>
 </div>   
     <div class="nav-footer-center">
 <p>Built with ❤️ using <a href="https://quarto.org/">Quarto</a> and <a href="https://pages.github.com/">Github Pages</a> || <a href="https://github.com/iamkkmcmd/iamkkmcmd.github.io">Gihub Source</a></p>
