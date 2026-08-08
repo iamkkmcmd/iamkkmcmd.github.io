@@ -1,97 +1,239 @@
 ---
-title: "Krishnakanta Maity"
-subtitle: "Statistician <br> Data Scientist"
-image: ./asset/img/Krishnakanta_Maity_Photo.jpg
-about:
-  template: trestles
-  image-width: 8em
-  image-shape: rounded
-  links:
-    - icon: chat-right-text-fill
-      text: I possess a unique blend of analytical expertise and data-driven problem-solving skills. With a passion for uncovering insights and driving informed decision-making, I strive to leverage data to make a meaningful impact and drive innovation in the field of statistics and data science.
-format: 
+pagetitle: "About — Krishnakanta Maity"
+format:
   html:
     page-layout: full
+    title-block-banner: false
+    toc: false
+    number-sections: false
 ---
 
-::: panel-tabset
+::: {.about-hero}
+::: {.about-hero-grid}
 
-## Experience
+::: {.about-photo-wrap}
+<img src="./asset/img/Krishnakanta_Maity_Photo.jpg" alt="Krishnakanta Maity" class="about-photo"/>
+:::
 
--   **Feedsense AI**
+::: {.about-hero-text}
+<span class="hero-badge">Statistician <span class="dot">&bull;</span> Data Scientist</span>
 
-    -   [Kolkata] Senior Research Analyst, `Apr'24 - Present`
+<h1 class="hero-title">About <span class="accent-text">Me</span></h1>
 
--   **Vista Intelligence**
+<p class="about-lead">I possess a unique blend of analytical expertise and data-driven problem-solving skills. With a passion for uncovering insights and driving informed decision-making, I strive to leverage data to make a meaningful impact and drive innovation in the field of statistics and data science.</p>
 
-    -   [Kolkata] Research Analyst, `July'23 - Mar'24`
+<div class="about-meta-row">
+  <span class="meta-chip"><i class="bi bi-geo-alt"></i> Kolkata, India</span>
+  <span class="meta-chip"><i class="bi bi-briefcase"></i> Feedsense AI</span>
+  <span class="meta-chip"><i class="bi bi-mortarboard"></i> M.Sc. Big Data Analytics</span>
+</div>
 
--   **Dr. Reddys Laboratories**
+<div class="hero-buttons">
+  <a href="./asset/pdf/Krishnakanta_Maity_Resume_V2_0_1.pdf" class="btn-gradient">Download Resume <i class="bi bi-download"></i></a>
+  <a href="mailto:iamkkmcmd@gmail.com" class="btn-outline">Get in Touch <i class="bi bi-envelope"></i></a>
+</div>
+:::
 
-    -   [Hyderabad] Junior Data Scientist, `Jan'23 - Jun'23`
+:::
+:::
 
+::: {.section-nav}
+<a href="#experience"><i class="bi bi-briefcase"></i> Experience</a>
+<a href="#education"><i class="bi bi-mortarboard"></i> Education</a>
+<a href="#certifications"><i class="bi bi-patch-check"></i> Certifications</a>
+<a href="#skills"><i class="bi bi-stars"></i> Skills</a>
+:::
 
+::: {.about-body}
 
-## Education
+## <i class="bi bi-briefcase"></i> Experience {#experience .section-heading}
 
--   [**Ramakrishna Mission Vivekananda Educational and Research Institute**](https://cs.rkmvu.ac.in/ "https://cs.rkmvu.ac.in/") Belur Math, Howrah-711202, West Bengal
+::: {.timeline}
 
-    -   **M.Sc. in Big Data Analytics**, `2021-2023`
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">Senior Research Analyst</span><span class="timeline-date">Apr '24 &ndash; Present</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i>Feedsense AI &middot; Kolkata</p>
+</div>
+:::
 
-<!-- -->
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">Research Analyst</span><span class="timeline-date">Jul '23 &ndash; Mar '24</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i>Vista Intelligence &middot; Kolkata</p>
+</div>
+:::
 
--   [**Visva Bharati University (Central University)**](https://www.visvabharati.ac.in/ "https://www.visvabharati.ac.in/") Shantiniketan, Bolpur-731235, West Bengal
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">Junior Data Scientist</span><span class="timeline-date">Jan '23 &ndash; Jun '23</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i>Dr. Reddy's Laboratories &middot; Hyderabad</p>
+</div>
+:::
 
-    -   **M.Sc. in Statistics**, `2018-2020`
+:::
 
-<!-- -->
+## <i class="bi bi-mortarboard"></i> Education {#education .section-heading}
 
--   [**Midnapore College (Autonomous)**](https://midnaporecollege.ac.in/ "https://midnaporecollege.ac.in/") Rajabazar, Midnapore-721101, West Bengal
+::: {.timeline}
 
-    -   **B.Sc. in Statistics**, `2015-2018`
-  
-- [**Mugberia Gangadhar High School (H.S.)**]() Bhupatinagar ; Purba Medinipur-721425, West Bengal
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">M.Sc. in Big Data Analytics</span><span class="timeline-date">2021 &ndash; 2023</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i><a href="https://cs.rkmvu.ac.in/" target="_blank">Ramakrishna Mission Vivekananda Educational and Research Institute</a>, Belur Math, Howrah</p>
+</div>
+:::
 
-    - **Higher Secondary (W.B. Board)**, `2013-2015`
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">M.Sc. in Statistics</span><span class="timeline-date">2018 &ndash; 2020</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i><a href="https://www.visvabharati.ac.in/" target="_blank">Visva Bharati University (Central University)</a>, Shantiniketan, Bolpur</p>
+</div>
+:::
 
--   [**Tikashi Uttar Kalamdan Bashuli Vidyayatan (H.S.)**]() Tikashi, Purba Mediniput-721430, West Bengal
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">B.Sc. in Statistics</span><span class="timeline-date">2015 &ndash; 2018</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i><a href="https://midnaporecollege.ac.in/" target="_blank">Midnapore College (Autonomous)</a>, Rajabazar, Midnapore</p>
+</div>
+:::
 
-    - **Secondary (W.B. Board)**, `2007-2013`
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">Higher Secondary (W.B. Board)</span><span class="timeline-date">2013 &ndash; 2015</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i>Mugberia Gangadhar High School (H.S.), Bhupatinagar, Purba Medinipur</p>
+</div>
+:::
 
-## Certification
+::: {.timeline-item}
+<div class="timeline-marker"></div>
+<div class="timeline-card">
+<div class="timeline-card-head"><span class="timeline-role">Secondary (W.B. Board)</span><span class="timeline-date">2007 &ndash; 2013</span></div>
+<p class="timeline-company"><i class="bi bi-building"></i>Tikashi Uttar Kalamdan Bashuli Vidyayatan (H.S.), Tikashi, Purba Medinipur</p>
+</div>
+:::
 
--   [NISM XV Certified Research Analyst](./asset/img/nism_certificate.png)
+:::
 
--   [Artificial Intelligence (AI) for Investments](https://internalapp.nptel.ac.in/NOC/NOC23/SEM1/Ecertificates/110/noc23-mg63/Course/NPTEL23MG63S3375242404157859.jpg)
+## <i class="bi bi-patch-check"></i> Certifications {#certifications .section-heading}
 
--   [Others] Many more ..
+::: {.cert-grid}
 
-## Expertise <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px" height="32px"/>
+::: {.cert-card}
+<i class="bi bi-patch-check-fill"></i>
 
--   **SKILLS**
+#### NISM XV Certified Research Analyst
 
-    |Language|Analytics|DataBase|Framework|
-    |:----------------:|:----------------:|:----------------:|:----------------:|
-    |![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)|
+[View credential <i class="bi bi-arrow-up-right"></i>](./asset/img/nism_certificate.png){target="_blank"}
+:::
 
--   **PACKAGES**
+::: {.cert-card}
+<i class="bi bi-patch-check-fill"></i>
 
-    ||||||||||
-    |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-    | <img src="https://github.com/tidyverse/tidyverse.org/blob/master/static/images/hex-tidyverse.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/tidyr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/rvest/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/stringr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/lubridate/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/purrr/blob/main/man/figures/logo.png?raw=true" height="50px"/> | <img src="https://github.com/tidyverse/readr/blob/main/man/figures/logo.png?raw=true" height="50px"/> |
+#### Artificial Intelligence (AI) for Investments
 
-    |||||||
-    |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-    | <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&amp;logo=plotly&amp;logoColor=white"/> |
+[View credential <i class="bi bi-arrow-up-right"></i>](https://internalapp.nptel.ac.in/NOC/NOC23/SEM1/Ecertificates/110/noc23-mg63/Course/NPTEL23MG63S3375242404157859.jpg){target="_blank"}
+:::
 
--   **IDE & TOOLS**
+::: {.cert-card .cert-card-muted}
+<i class="bi bi-three-dots"></i>
 
-    |||||
-    |:----------------:|:----------------:|:-----------------:|:----------------:|
-    | ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) | ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) | ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) |
+#### More on the way
 
-    ||||
-    |:----------------------:|:---------------------:|:------------------------:|
-    | ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) | ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |
+Additional certifications in progress.
+:::
+
+:::
+
+## <i class="bi bi-stars"></i> Skills {#skills .section-heading}
+
+::: {.skills-groups}
+
+::: {.skill-group}
+
+#### Languages
+
+::: {.chip-row}
+[Python]{.chip} [R]{.chip} [C++]{.chip} [C]{.chip} [SQL]{.chip} [HTML/CSS]{.chip}
+:::
+:::
+
+<!-- ::: {.skill-group} -->
+
+<!-- #### Machine Learning & Deep Learning -->
+
+<!-- ::: {.chip-row} -->
+<!-- [LSTM]{.chip} [Transformers]{.chip} [Bayesian Inference]{.chip} -->
+<!-- [Time Series Forecasting]{.chip} [Feature Engineering]{.chip} -->
+<!-- [Backtesting]{.chip} [Hyperparameter Tuning]{.chip} -->
+<!-- [Transfer Learning]{.chip} [scikit-learn]{.chip} [XGBoost]{.chip} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.skill-group} -->
+
+<!-- #### Data Science & Statistics -->
+
+<!-- ::: {.chip-row} -->
+<!-- [Statistical Hypothesis Testing]{.chip} [Time Series Analysis]{.chip} -->
+<!-- [Regression]{.chip} [Panel Data]{.chip} [DID Regression]{.chip} -->
+<!-- [Feature Engineering]{.chip} [Risk Analysis]{.chip} -->
+<!-- ::: -->
+<!-- ::: -->
+
+::: {.skill-group}
+
+#### Libraries & Frameworks
+
+::: {.chip-row}
+[Streamlit]{.chip} [R Shiny]{.chip} [Quarto]{.chip} [flask]{.chip} [FastAPI]{.chip}
+:::
+:::
+
+::: {.skill-group}
+
+#### Developer Tools
+
+::: {.chip-row}
+[Git]{.chip} [Docker]{.chip} [Google Cloud Platform]{.chip}
+[VS Code]{.chip} [RStudio]{.chip} [CI/CD Pipelines]{.chip}
+:::
+:::
+
+::: {.skill-group}
+
+#### Domain Knowledge
+
+::: {.chip-row}
+[Algorithmic Trading]{.chip} [Options Strategies]{.chip}
+[Portfolio Optimization]{.chip} [Risk Management]{.chip}
+[Demand Forecasting]{.chip}
+:::
+:::
+
+::: {.skill-group}
+#### Favorite R Packages
+
+<div class="pkg-strip">
+<img src="https://github.com/tidyverse/tidyverse.org/blob/master/static/images/hex-tidyverse.png?raw=true" alt="tidyverse"/>
+<img src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png?raw=true" alt="dplyr"/>
+<img src="https://github.com/tidyverse/tidyr/blob/main/man/figures/logo.png?raw=true" alt="tidyr"/>
+<img src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png?raw=true" alt="ggplot2"/>
+<img src="https://github.com/tidyverse/rvest/blob/main/man/figures/logo.png?raw=true" alt="rvest"/>
+<img src="https://github.com/tidyverse/stringr/blob/main/man/figures/logo.png?raw=true" alt="stringr"/>
+<img src="https://github.com/tidyverse/lubridate/blob/main/man/figures/logo.png?raw=true" alt="lubridate"/>
+<img src="https://github.com/tidyverse/purrr/blob/main/man/figures/logo.png?raw=true" alt="purrr"/>
+<img src="https://github.com/tidyverse/readr/blob/main/man/figures/logo.png?raw=true" alt="readr"/>
+</div>
+:::
+
+:::
 
 :::

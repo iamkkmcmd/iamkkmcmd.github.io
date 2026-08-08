@@ -1,44 +1,86 @@
 ---
-title: "Krishnakanta Maity"
-subtitle: "Statistician and Data Scientist"
-image: ./asset/img/Krishnakanta_Maity_Photo.jpg
-about:
-  template: jolla
-  image-width: 8em
-  image-shape: rounded
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/iamkkmcmd/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/iamkkmcmd
-    - icon: envelope
-      text: Email me
-      href: mailto:iamkkmcmd@gmail.com
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/iamkkmcmd
-    - icon: facebook
-      text: Facebook
-      href: https://facebook.com/iamkkmcmd
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com/iamkkmcmd
-format: 
+pagetitle: "Krishnakanta Maity"
+format:
   html:
     page-layout: full
+    title-block-banner: false
 ---
 
-:::{#heading}
-Welcome to my portfolio, a curated collection that reflects my expertise and creativity in datascience. Here, you'll discover a snapshot of my skills, projects, and achievements that highlight my commitment to excellence and innovation. Each piece within this portfolio tells a unique story, showcasing not only what I've accomplished but also the passion and dedication I bring to statistics and datascience. Explore, engage, and witness the fusion of knowledge and creativity that defines my professional journey.
-<br>
-To know more visit [**about**](https://iamkkmcmd.github.io/about.html) section ...
-<br>
+::: {.hero-section}
+::: {.hero-grid}
+
+::: {.hero-photo}
+<img src="./asset/img/Krishnakanta_Maity_Photo.jpg" alt="Krishnakanta Maity" class="hero-img"/>
 :::
 
+::: {.hero-content}
 
+<h1 class="hero-title">Krishnakanta <span class="accent-text">Maity</span></h1>
 
+<span class="hero-badge"> Statistician <span class="dot">&bull;</span> Data Scientist <span class="dot">&bull;</span> Research Analyst</span>
+<!-- <p class="hero-subtitle">Statistician and Data Scientist</p> -->
 
+<p class="hero-desc">Welcome to my portfolio, a curated collection that reflects my expertise and creativity in data-science. Here, you'll discover a snapshot of my skills, projects, and achievements that highlight my commitment to excellence and innovation.</p>
 
+<p class="hero-desc">Each piece within this portfolio tells a unique story, showcasing not only what I've accomplished but also the passion and dedication I bring to statistics and data-science.</p>
 
+<p class="hero-desc">Explore, engage, and witness the fusion of knowledge and creativity that defines my professional journey. To know more visit <a href="./about.html" class="accent-link"><strong>about</strong></a> section &hellip;</p>
+
+<div class="hero-buttons">
+  <a href="./project.html" class="btn-gradient">Explore Projects <i class="bi bi-arrow-right"></i></a>
+  <a href="./asset/pdf/Krishnakanta_Maity_Resume_V2_0_1.pdf" class="btn-outline">Download Resume <i class="bi bi-download"></i></a>
+</div>
+:::
+
+::: {.stats-column}
+::: {.stat-item}
+<div class="stat-icon"><i class="bi bi-mortarboard"></i></div>
+<div>
+<p class="stat-label">Education</p>
+<p class="stat-title">M.Sc. Big Data Analytics</p>
+<p class="stat-sub">RKMVERI, Belur Math</p>
+</div>
+:::
+
+::: {.stat-item}
+<div class="stat-icon"><i class="bi bi-trophy"></i></div>
+<div>
+<p class="stat-label">Experience</p>
+<p class="stat-title">Senior Research Analyst</p>
+<p class="stat-sub">Feedsense AI &bull; Live Trading Systems</p>
+</div>
+:::
+
+::: {.stat-item}
+<div class="stat-icon"><i class="bi bi-graph-up-arrow"></i></div>
+<div>
+<p class="stat-label">Specialization</p>
+<p class="stat-title">Statistics &amp; ML</p>
+<p class="stat-sub">Quant Modeling &bull; Forecasting</p>
+</div>
+:::
+
+::: {.stat-item}
+<div class="stat-icon"><i class="bi bi-code-slash"></i></div>
+<div>
+<p class="stat-label">Tools</p>
+<p class="stat-title">Python, R, SQL</p>
+<p class="stat-sub">Pandas &bull; Scikit-learn &bull; PostgreSQL</p>
+</div>
+:::
+:::
+
+:::
+:::
+
+::: {.connect-section}
+<p class="connect-label"><span></span>Connect with me<span></span></p>
+<div class="connect-links">
+  <a href="https://github.com/iamkkmcmd/" class="connect-btn"><i class="bi bi-github"></i> GitHub</a>
+  <a href="https://www.linkedin.com/in/iamkkmcmd" class="connect-btn"><i class="bi bi-linkedin"></i> LinkedIn</a>
+  <a href="mailto:iamkkmcmd@gmail.com" class="connect-btn"><i class="bi bi-envelope"></i> Email me</a>
+  <a href="https://twitter.com/iamkkmcmd" class="connect-btn"><i class="bi bi-twitter"></i> Twitter</a>
+  <a href="https://facebook.com/iamkkmcmd" class="connect-btn"><i class="bi bi-facebook"></i> Facebook</a>
+  <a href="https://instagram.com/iamkkmcmd" class="connect-btn"><i class="bi bi-instagram"></i> Instagram</a>
+</div>
+:::

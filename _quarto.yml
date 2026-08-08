@@ -12,9 +12,9 @@ website:
   cookie-consent: true
   page-footer:
     left: "Copyright @ 2026 <br> **Krishnakanta Maity**"
-    center: |
+    center: "
       Built with ❤️ using [Quarto](https://quarto.org/) and [Github Pages](https://pages.github.com/)
-      || [Gihub Source](https://github.com/iamkkmcmd/iamkkmcmd.github.io)
+      "
     right: "
         [Feedback](https://iamkkmcmd.github.io/feedback.html) 
         <br>
@@ -22,10 +22,10 @@ website:
         [{{< fa brands linkedin title='Visit Linkedin'>}}](https://www.linkedin.com/in/iamkkmcmd) &nbsp; &nbsp;
         [{{< fa brands github title='Visit Github'>}}](https://github.com/iamkkmcmd)
       "
-    background: "#16b1b5"
+    background: "#060a12"
   
   navbar:
-    logo: asset/img/apple-touch-icon.png
+    logo: asset/img/favicon_full_no_bg.png
     logo-alt: "iamkkmcmd"
     logo-href: "https://iamkkmcmd.github.io/about.html"
     search: true
@@ -33,15 +33,15 @@ website:
     collapse: true
     left:
       - href: index.qmd
-        text: Home
+        text: "<i class='bi bi-house'></i> Home"
       - href: about.qmd
-        text: About
+        text: "<i class='bi bi-person'></i> About"
       - href: project.qmd
-        text: Project
+        text: "<i class='bi bi-code-slash'></i> Project"
       - href: blog.qmd
-        text: Blog
+        text: "<i class='bi bi-file-earmark-text'></i> Blog"
       - href: eda.qmd
-        text: EDA
+        text: "<i class='bi bi-graph-up-arrow'></i> EDA"
     right:
       - href: resume.qmd
         text: Resume
@@ -93,4 +93,3 @@ format:
 
 
 editor: visual
-

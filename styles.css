@@ -1,28 +1,44 @@
+html {
+  scroll-behavior: smooth;
+}
+
 nav.navbar {
-    height: 60px;
-  }
+  height: 64px;
+}
 
 #quarto-sidebar-glass {
-    display: none;
-}
-
-div.quarto-about-jolla {
-    margin-top: 50px;
-}
-
-span.menu-text {
-    font-family: 'Lato', sans-serif;
-    font-size: 18px;
-    /* font-weight: bold; */
+  display: none;
 }
 
 .nav-footer {
-    font-family: 'Roboto Thin 300', sans-serif;
-}
-/* span.menu-text:hover {
-    color: #03ffee;
+  font-family: 'Inter', sans-serif;
 }
 
-span.menu-text:active {
-    color: #03ffee;
-} */
+/* Keep images crisp inside cards/tables without overflowing on mobile */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tidy up skill badge tables from about.qmd */
+table img[src*="shields.io"] {
+  margin: 2px;
+}
+
+/* Slightly roomier reading width for prose pages */
+main.content:not(.column-page) {
+  max-width: 900px;
+}
+
+@media (max-width: 767.98px) {
+  .quarto-title .title {
+    font-size: 1.7rem !important;
+  }
+  .about-links {
+    gap: .4rem;
+  }
+  .about-link {
+    font-size: .78rem !important;
+    padding: .45rem .9rem !important;
+  }
+}
